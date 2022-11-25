@@ -1,0 +1,1582 @@
+{
+    "version": "1.0",
+    "sourceName": "IPA Library Leak",
+    "sourceAuthor": "IPA Library Leak",
+    "sourceLinkTitle": "TELEGRAM",
+    "sourceLinkUrl": "https://t.me/ipalibrary_leak",
+    "sourceImage": "https://lazyshop.app/assets/top_logo.jpg",
+    "sourceDescription": "Установка: Нажимаем кнопку скачать, далее переходим в раздел «скачать», импортируем в библиотеку приложений. Далее переходим в библиотеку приложений, нажимаем на фаил - подписать - подписать - установить\n\n🔧 Для TrollStore/Jailbreak \nНажимаем скачать, далее переходим в раздел «скачать», нажимаем «Просмотреть местоположение файла», далее нажимаем Troll Install (в случае JB установить)\n\n📲 У кого iOS 16+ ОБЯЗАТЕЛЬНО переходим в настройки - настройки подписи - метод установки - сервер. Иначе приложения не будут устанавливаться‼️",
+    "appCategories": [
+        "Приложения",
+        "Игры",
+        "Аудио",
+        "Инструменты"
+    ],
+    "appRepositories": [
+    {
+      "appName": "Prune",
+      "appVersion": "1.1.3",
+      "appUpdateTime": "2022-11-25",
+      "appDescription": "Игра о красоте и удовольствии роста живого растения.",
+      "appPackage": "",
+      "appImage": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/329.png",
+      
+      "appCateIndex": 1
+    },
+    {
+      "appName": "Kings Hero",
+      "appVersion": "1.9",
+      "appUpdateTime": "2022-11-25",
+      "appDescription": "Эпическая сага о рыцаре, представляющая собой классическую ролевую игру с тактическими сражениями",
+      "appPackage": "",
+      "appImage": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/328.png",
+      
+      "appCateIndex": 1
+    },
+    {
+      "appName": "Avatan | Hack",
+      "appVersion": "3.5",
+      "appUpdateTime": "2022-11-25",
+      "appDescription": "Свободный фото редактор с неограниченными возможностями.",
+      "appPackage": "",
+      "appImage": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/327.png",
+      
+      "appCateIndex": 0
+    },
+    {
+      "appName": "PhotoGrid | Hack",
+      "appVersion": "8.4.31",
+      "appUpdateTime": "2022-11-25",
+      "appDescription": "Активирована подписка!/nФоторедактор, который должен быть у каждого фотолюбителя!",
+      "appPackage": "",
+      "appImage": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/326.png",
+      
+      "appCateIndex": 0
+    },
+    {
+      "appName": "Touch Retouch",
+      "appVersion": "5.0.13",
+      "appUpdateTime": "2022-11-21",
+      "appDescription": "Ваше карманное приложение для удаления нежелательных объектов с фото!",
+      "appPackage": "https://www.dropbox.com/s/4dcy0fdka40noj1/TouchRetouch.ipa?dl=1",
+      "appImage": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/325.png",
+      
+      "appCateIndex": 0
+    },
+    {
+      "appName": "Device Monitor | Hack",
+      "appVersion": "5.5.1",
+      "appUpdateTime": "2022-11-21",
+      "appDescription": "«Покупаем» подписку и отказываемся от ввода Apple ID!\nПрограмма, что показывает всю информацию о вашей системе!",
+      "appPackage": "https://www.dropbox.com/s/qxzacvusvy87ofb/Device%20Monitor%205.5.1.ipa?dl=1",
+      "appImage": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/324.png",
+      
+      "appCateIndex": 0
+    },
+    {
+      "appName": "Photo Retouch | Hack",
+      "appVersion": "2.0",
+      "appUpdateTime": "2022-11-21",
+      "appDescription": "Активирована подписка!\nРедактируйте или кадрируйте свои фото и видео! Огромное количество, среди которых есть удаление ненужных объектов!",
+      "appPackage": "https://www.dropbox.com/s/i1ye5owtljwk9wg/Photo%20Retouch%202.0.ipa?dl=1",
+      "appImage": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/323.png",
+      
+      "appCateIndex": 0
+    },
+    {
+      "appName": "Removal | Hack",
+      "appVersion": "3.7.8",
+      "appUpdateTime": "2022-11-21",
+      "appDescription": "Активирована подписка!\nПрофессиональное приложение, которое поможет вам убрать нежелательные объекты с фото!",
+      "appPackage": "https://www.dropbox.com/s/lgcnd7le2wribdz/objectremovalfree%203.7.8.ipa?dl=1",
+      "appImage": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/322.png",
+      
+      "appCateIndex": 0
+    },
+    {
+      "appName": "AirBrush | Hack",
+      "appVersion": "4.27.2",
+      "appUpdateTime": "2022-11-21",
+      "appDescription": "Активирована подписка!\nРедактируйте снимки в фоторедакторе и получайте совершенные результаты!",
+      "appPackage": "https://www.dropbox.com/s/a61udnfgjyesy67/AirBrush%204.27.2.ipa?dl=1",
+      "appImage": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/321.png",
+      
+      "appCateIndex": 0
+    },
+    {
+      "appName": "AutoEdit | Hack",
+      "appVersion": "3.22.0",
+      "appUpdateTime": "2022-11-21",
+      "appDescription": "Активирована подписка!\nХотите сделать великолепно выглядящее из фото и видео? Тогда это приложения для вас!",
+      "appPackage": "https://www.dropbox.com/s/8g6edjzvoejgm9z/AutoEdit_3.22.0.ipa?dl=1",
+      "appImage": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/320.png",
+      
+      "appCateIndex": 0
+    },
+    {
+      "appName": "ProCCD | Hack",
+      "appVersion": "2.2.1",
+      "appUpdateTime": "2022-11-19",
+      "appDescription": "Активирована подписка!\nПриложение для аналоговой ретро-цифровой камеры.",
+      "appPackage": "https://www.dropbox.com/s/n0o0pqo9122plh6/ProCCD%202.2.1.ipa?dl=1",
+      "appImage": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/319.jpeg",
+      "size": "60397977.",
+      "appCateIndex": 0
+    },
+    {
+      "appName": "OldRoll | Hack",
+      "appVersion": "4.5.2",
+      "appUpdateTime": "2022-11-19",
+      "appDescription": "Активирована подписка!\nПриложение, что понравится пользователям фотолюбителям, что обожают применять фильтры для получения радующих глаз результатов. В данном случае они получают возможность окунутся в ретро.",
+      "appPackage": "https://www.dropbox.com/s/680hg0brnkvvo6s/OldRoll%204.5.2.ipa?dl=1",
+      "appImage": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/318.jpeg",
+      
+      "appCateIndex": 0
+    },
+    {
+      "appName": "Tempo App | Hack",
+      "appVersion": "4.25.0",
+      "appUpdateTime": "2022-11-19",
+      "appDescription": "Активирована подписка!\nСовременный и многофункциональный редактор фото и видео для создания музыкальных видеороликов и слайдшоу.",
+      "appPackage": "https://www.dropbox.com/s/m6ziuvqu3akgb42/Tempo%20App%204.25.0.ipa?dl=1",
+      "appImage": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/317.jpeg",
+      
+      "appCateIndex": 0
+    },
+    {
+      "appName": "Perfect Video | Hack",
+      "appVersion": "8.6.1",
+      "appUpdateTime": "2022-11-19",
+      "appDescription": "Активирована подписка!\nМощный, но ОЧЕНЬ удобный редактор для видео и слайд-шоу.",
+      "appPackage": "https://www.dropbox.com/s/nbd58ozyby2rw9o/PerfectVideoLite%208.6.1.ipa?dl=1",
+      "appImage": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/316.jpeg",
+      
+      "appCateIndex": 0
+    },
+    {
+      "appName": "Movavi Clips | Hack",
+      "appVersion": "3.52.0",
+      "appUpdateTime": "2022-11-19",
+      "appDescription": "Активирована подписка!\nУдобный видеоредактор предназначенный для оперативного монтажа роликов и фильмов любой продолжительности и сложности.",
+      "appPackage": "https://www.dropbox.com/s/l0u06b00ar9omwp/Movavi%20Clips%203.52.0.ipa?dl=1",
+      "isLanZouCloud": "0",
+      "appImage": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/315.jpeg",
+      
+      "appCateIndex": 0
+    },
+    {
+      "appName": "Glitch Studio | Hack",
+      "appVersion": "4.5.1",
+      "appUpdateTime": "2022-11-19",
+      "appDescription": "«Покупаем» и отказываемся от ввода Apple ID!\nДобавляй Глитч эффект для ваших фото и видео!",
+      "appPackage": "https://www.dropbox.com/s/lsmsqj14inzjbqw/Glitch%20Studio%204.5.1.ipa?dl=1",
+      "appImage": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/314.jpeg",
+      
+      "appCateIndex": 0
+    },
+    {
+      "appName": "ReLens | Hack",
+      "appVersion": "1.8.2",
+      "appUpdateTime": "2022-11-19",
+      "appDescription": "Активирована подписка!\nЭто профессиональный редактор фотографий, поддерживающий эффект большой диафрагмы и боке DSLR-качества.",
+      "appPackage": "https://www.dropbox.com/s/in7v76hc5ptvn4k/ReLens%201.8.2.ipa?dl=1",
+      "appImage": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/313.jpeg",
+      
+      "appCateIndex": 0
+    },
+    {
+      "appName": "Rush Rally Origins | Hack",
+      "appVersion": "1.37",
+      "appUpdateTime": "2022-11-19",
+      "appDescription": "Исправлен вылет на сертификатах, а так же взломан магазин!\nRush Rally Origins совмещает классическое ралли с видом сверху с продвинутой графикой и физикой из Rush Rally 3.",
+      "appPackage": "https://www.dropbox.com/s/iptntqf99u70zxk/Origins%201.37.ipa?dl=1",
+      "appImage": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/312.jpeg",
+      
+      "appCateIndex": 1
+    },
+    {
+      "appName": "The Room: Old Sins",
+      "appVersion": "1.04",
+      "appUpdateTime": "2022-11-19",
+      "appDescription": "Внезапное исчезновение амбициозного инженера и его жены-светской львицы становится отправной точкой для начала охоты на ценный артефакт.",
+      "appPackage": "https://www.dropbox.com/s/uxdnf4hxtidn5po/Old%20Sins%201.0.4.ipa?dl=1",
+      "appImage": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/311.jpeg",
+      
+      "appCateIndex": 1
+    },
+    {
+      "appName": "Manlook | Hack",
+      "appVersion": "1.4",
+      "appUpdateTime": "2022-11-19",
+      "appDescription": "Активирована подписка!\nМощный фоторедактор, созданный специально для мужчин!",
+      "appPackage": "https://www.dropbox.com/s/85s2r50fj252c8u/Manlook%201.4.ipa?dl=1",
+      "appImage": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/310.jpeg",
+      
+      "appCateIndex": 0
+    },
+    {
+      "appName": "Cleaner Pro | Hack",
+      "appVersion": "5.3",
+      "appUpdateTime": "2022-11-19",
+      "appDescription": "«Покупаем» подписку и отказываемся от ввода Apple ID!\nОчистите ваш телефон от лишнего, а так же спрячьте ваши фотографии!",
+      "appPackage": "https://www.dropbox.com/s/yfn3ne38nsww5kr/Cleaner%20Pro%205.3.ipa?dl=1",
+      "appImage": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/309.png",
+      
+      "appCateIndex": 0
+    },
+    {
+    "appName" : "Shadow Fight 2 | Hack",
+    "appUpdateTime" : "2022-11-14T10:11:00+0300",
+    "appVersion" : "2.23.0",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/1.jpeg",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/m5ygklx3zi4se1z\/Shadow%20Fight%202%20.ipa?dl=1",
+    "appDescription" : "Взлом на валюту! Теперь взлом происходит автоматически!\nЗубодробительная смесь файтинга и РПГ. Вы не просто деретесь в лучших традициях файтингов, но и одеваете своего персонажа, покупаете оружие, повышаете параметры и изучаете новые способности и удары.",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appVersion" : "1.2.0",
+    "appDescription" : "Исправлен вылет на сертификатах!\nВсеми известная косынка без доната из Apple Arcade!",
+    "appUpdateTime" : "2022-11-14T09:43:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/0j0urj49xlegupu\/Solitaire%2B%201.2.0.ipa?dl=1",
+    "appName" : "Solitaire+ - Apple Arcade",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/2.jpeg",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appDescription" : "Исправлен вылет на сертификатах!\nВсеми известные шашки без доната из Apple Arcade!",
+    "appUpdateTime" : "2022-11-13T15:43:00+0300",
+    "appVersion" : "1.78",
+    "appName" : "Checkers - Apple Arcade",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/3.jpeg",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/3cncfc1tp7y9n1m\/Checkers%201.78.ipa?dl=1",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appUpdateTime" : "2022-11-13T14:43:00+0300",
+    "appDescription" : "Исправлен вылет на сертификатах!\nВсеми известные шахматы без доната из Apple Arcade!",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/5.jpeg",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/tggy6majrwkp0n3\/Chess%201.0.3.ipa?dl=1",
+    "appVersion" : "1.0.3",
+    "appName" : "Chess - Play & Learn+ - Apple Arcade",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appDescription" : "Скачивая данную программу вы соглашаетесь, что вам есть 18+ лет!\nПросмотр видосиков с PornHub, XVideos и прочие без рекламы и смс.",
+    "appVersion" : "0.5.1",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/5nxux20z85h033s\/VidList_0.5.1.ipa?dl=1",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/4.jpeg",
+    "appName" : "VidList",
+    "appUpdateTime" : "2022-11-11T20:29:00+0300",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appUpdateTime" : "2022-11-11T20:10:00+0300",
+    "appVersion" : "3.0 beta 2",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/6.png",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/9ye82fqivsikhba\/p%20%281%29.ipa?dl=1",
+    "appDescription" : "Приложение, где пользователи могут смотреть сериалы, фильмы и шоу!\n❗️В приложении есть премиум!",
+    "appName" : "KinoHome",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/liure8iqeaa773h\/Dog%20at%20Home%201.2.3.ipa?dl=1",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/7.jpg",
+    "appName" : "Dog At Home | Hack",
+    "appVersion" : "1.2.3",
+    "appDescription" : "Активирована подписка! TrollStore не работает, только сертификат! Если у вас TrollStore, подпишите корпоративным сертификатом и все будет работать!\nНезаменимое приложение для всех владельцев собак, которое поможет вам в дрессировке",
+    "appUpdateTime" : "2022-11-11T12:43:00+0300",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/8.jpeg",
+    "appName" : "Documents by Readdle | Hack",
+    "appUpdateTime" : "2022-11-10T14:50:00+0300",
+    "appDescription" : "Активирован Pro режим! \n\nТеперь вы можете читать книги и статьи, смотреть видео, слушать любимую музыку, аннотировать тексты и с легкостью загружать нужные документы из сети на iPad и iPhone!",
+    "appPackage" : "",
+    "appVersion" : "8.2.10",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appUpdateTime" : "2022-11-08T18:10:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/9.jpeg",
+    "appName" : "Sniper 3D | Hack",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/01kpvoqb9usp0ku\/Sniper3D.ipa?dl=1",
+    "appDescription" : "Монеты при покупке увеличиваются! Энергия бесконечна!\nПросто НАКЛОНИТЕ устройство, чтобы прицелиться, и КОСНИТЕСЬ, чтобы выстрелить.",
+    "appVersion" : "4.2.0",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appUpdateTime" : "2022-11-08T16:43:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/zp4s7h82wvks5b8\/VKReborn%207.37.ipa?dl=1",
+    "appVersion" : "7.37",
+    "appName" : "VK Reborn",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/10.jpg",
+    "appDescription" : "Модификация VK с различными, интересными функциями такими как: отсутствие рекламы, отсутствие лимитов на музыку, отключение цензуры и многое другое!",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/11.png",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/1giapq0vly0pzf6\/Yandex.Music%20591.ipa?dl=1",
+    "appName" : "Яндекс Музыка | Hack",
+    "appUpdateTime" : "2022-11-08T16:12:00+0300",
+    "appVersion" : "5.91",
+    "appDescription" : "Активирована подписка!\nСтриминговый сервис музыки от Яндекса",
+            
+            "appCateIndex": 2
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/12.png",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/lb270vpgqgad75u\/Stranger%201.1.ipa?dl=1",
+    "appVersion" : "1.1",
+    "appUpdateTime" : "2022-11-08T12:48:00+0300",
+    "appName" : "Oddworld: Stranger's Wrath",
+    "appDescription" : "❗️Работоспособность TrollStore\/JailBreak❗️\nНа пыльных диких пустошах Западного Мудоса поселения сварливых горожан подвергаются нападениям воинственных бандитов. И тут появляется Странник — скиталец, ставший охотником за головами.",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/13.png",
+    "appVersion" : "1.119",
+    "appName" : "Rush Rally 3 | Hack | Fix",
+    "appUpdateTime" : "2022-11-08T12:44:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/gxpvb0ftut5lko1\/Rush%20Rally%203%201.119.ipa?dl=1",
+    "appDescription" : "Исправлен вылет на сертификатах! Так же взломаны покупки в магазине!\nСамый настоящий и реалистичный мобильный симулятор ралли.",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appName" : "LIMBO",
+    "appUpdateTime" : "2022-11-08T12:00:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/14.jpg",
+    "appVersion" : "1.2.2",
+    "appDescription" : "Не зная о судьбе своей сестры, мальчик входит в LIMBO.",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/wbm448nfa26ld0y\/LIMBO%201.2.2.ipa?dl=1",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appName" : "Vector 2 Premium",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/kofa7abp73nekki\/Vector%202%20Premium%201.1.1.ipa?dl=1",
+    "appVersion" : "1.1.1",
+    "appDescription" : "Продолжение отличного платформера про паркур - Vector, где в этот раз вы будете сбегать из исследовательской лаборатории.",
+    "appUpdateTime" : "2022-11-08T11:59:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/15.jpg",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/16.jpg",
+    "appVersion" : "2.18",
+    "appName" : "Cortex Camera",
+    "appUpdateTime" : "2022-11-08T10:59:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/cnajgv1vl58z1xy\/Cortex%20Cam%202.18.ipa?dl=1",
+    "appDescription" : "Cortex Camera объединяет десятки отдельных кадров для создания единого высокого разрешения, свободное от шума изображение.",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appName" : "Adobe Lightroom | Hack",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/17.png",
+    "appUpdateTime" : "2022-11-08T10:00:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/4aw0mb8iquis6yl\/Lightroom%208.0.0.ipa?dl=1",
+    "appVersion" : "8.0.0",
+    "appDescription" : "Взломан на подписку! Для активации «покупаем» премиум и отказываемся от Apple ID!\nAdobe Photoshop Lightroom CC для мобильных устройств — приложение с мощными и простыми в использовании инструментами для съемки, обработки и публикации фотографий."
+            
+            "appCateIndex": 0
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/18.jpg",
+    "appName" : "Серый Копатель | Hack",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/8lb11e2quu7hzaf\/%D0%A1%D0%B5%D1%80%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BF%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%201.2.ipa?dl=1",
+    "appVersion" : "1.2",
+    "appUpdateTime" : "2022-11-06T20:59:00+0300",
+    "appDescription" : "«Покупаем» и отказываемся от ввода Apple ID!\nПервое кладоискатель­ское приложение. Полный каталог царских монет со всеми разновидам­и, полный каталог СС­СР.",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appVersion" : "1.1.4",
+    "appDescription" : "Для удаления рекламы «покупаем» услугу и отказываемся от ввода Apple ID!\nМобильное приложение Old Maps может отображать карты прошлого в соответствии с интересующим вас местами.",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/19.jpg",
+    "appName" : "Old Maps Online | Hack",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/b0bt58wj2tqw70m\/Old%20Maps%201.1.4.ipa?dl=1",
+    "appUpdateTime" : "2022-11-06T20:39:00+0300",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appUpdateTime" : "2022-11-06T20:09:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/9dd7d2r7k5ssxka\/Video%20Editor%20-%20Vlog%20Star%201.8.1.ipa?dl=1",
+    "appDescription" : "Активирована подписка!\nС помощью данного приложение любой желающий может полноценно и без каких-либо ограничений работать над созданием роликов любого хронометража и наполнения.",
+    "appVersion" : "1.5.6",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/20.jpg",
+    "appName" : "Vlog Star | Hack",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/8d506g7xxhxsagp\/Koloro%204.3.6.ipa?dl=1",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/21.jpeg",
+    "appVersion" : "4.3.6",
+    "appDescription" : "Активирована подписка!\nПресеты для Lightroom, приложение поможет сделать ваши фотографии еще более привлекательными и загадочными.",
+    "appUpdateTime" : "2022-11-06T14:09:00+0300",
+    "appName" : "Koloro | Hack",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appDescription" : "Программа отслеживает ваш сон и его качество!",
+    "appName" : "AutoSleep",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/3j104gbfhzk87dj\/AutoSleep.ipa?dl=1",
+    "appUpdateTime" : "2022-11-06T12:09:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/22.jpg",
+    "appVersion" : "6.9.2",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/h6yu65axt6tf75b\/PvZ2%209.8.1.ipa?dl=1",
+    "appName" : "PvZ 2 | Hack",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/23.jpg",
+    "appDescription" : "Накручена валюта на максимум!\nВ этом безумном приключении вам предстоит встретиться с зомби и победить их. Соберите армию из новых мощных растений, зарядите их с помощью удобрений и укрепите оборону благодаря новым потрясающим способам защиты мозга.",
+    "appUpdateTime" : "2022-11-06T11:59:00+0300",
+    "appVersion" : "9.8.1",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/24.jpg",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/xx8xvnr2ny58pib\/%D0%A1%D0%B8%D0%BC%D0%B1%D0%B8%D0%BE%D0%BD%D1%82%203_1.2.ipa?dl=1",
+    "appVersion" : "1.2",
+    "appName" : "Symbiont 3 | Hack",
+    "appDescription" : "«Покупаем» премиум и отказываемся от ввода Apple ID!\nТретья часть текстовой стратегии в которой вам вновь предстоит отправиться в Убежища М-2 и в роли одного из двух доступных героев найти ответы на главные загадки лаборатории.",
+    "appUpdateTime" : "2022-11-06T11:49:00+0300",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/xqjacx4hq9o53zv\/%D0%A1%D0%B8%D0%BC%D0%B1%D0%B8%D0%BE%D0%BD%D1%82%202%202.3.ipa?dl=1",
+    "appVersion" : "2.3",
+    "appDescription" : "«Покупаем» премиум и отказываемся от ввода Apple ID!\nВам придется оказывать посильную помощь профессиональному солдату-наемнику, который считается одним из лучших бойцов специального подразделения «Клинок».",
+    "appUpdateTime" : "2022-11-06T11:46:00+0300",
+    "appName" : "Symbiont 2 | Hack",
+    "appCateIndex" : 0,
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/25.jpg",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appDescription" : "Глубокая захватывающая история о выживании и настойчивости",
+    "appVersion" : "2.0",
+    "appName" : "Lifeline: Silent Night",
+    "appUpdateTime" : "2022-11-06T11:10:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/26.jpeg",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/7ipn7tqa93nyski\/Silent%20Night%202.0.ipa?dl=1",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/27.jpg",
+    "appUpdateTime" : "2022-11-06T10:56:00+0300",
+    "appVersion" : "3.8",
+    "appDescription" : "«Покупаем» премиум и отказываемся от ввода Apple ID!\nРассказ о одном из врачей, точнее про нейробиолога, которой по чистой случайности оказался заперт в одной из лабораторий.",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/7y8mhdlctuk739v\/%D0%A1%D0%B8%D0%BC%D0%B1%D0%B8%D0%BE%D0%BD%D1%82%203.8.ipa?dl=1",
+    "appName" : "Symbiont | Hack",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appDescription" : "Удивительная история о выживании вопреки всему. С помощью вашего iPhone, iPad, or Apple Watch, вы поможете Тейлору принять жизненно важные решение и вместе увидите, к чему это вас приведет.",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/28.jpeg",
+    "appVersion" : "2.2",
+    "appUpdateTime" : "2022-11-04T15:04:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/wp1kmlethjvhvqs\/Lifeline%202.2.ipa?dl=1",
+    "appName" : "LifeLine",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appName" : "Lego Batman: DC SH | Hack",
+    "appUpdateTime" : "2022-11-04T11:48:00+0300",
+    "appCateIndex" : 0,
+    "appDescription" : "Взломан магазин! «Покупаем» и отказываемся от ввода Apple ID!\nЛегенды Объединяются! Бэтмэн и Робин соединяет силы с другими известными супергероями DC!",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/cfyn3jnxi73o91m\/LEGO%20DC%201.9.0.ipa?dl=1",
+    "appVersion" : "1.9.0",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/29.jpeg",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appUpdateTime" : "2022-11-04T10:53:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/30.jpeg",
+    "appName" : "Terraria",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/g8e3wkdjbsc40o9\/Terraria%204.4.5.ipa?dl=1",
+    "appDescription" : "В Terraria всё зависит только от Вас! Вы — любитель сражений? Великий архитектор? Коллекционер? Путешественник? Каждому найдётся здесь своё место.",
+    "appVersion" : "4.4.5",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/31.png",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/lvl71g58kmthl1y\/FRAMED%201.31.ipa?dl=1",
+    "appDescription" : "Повествовательная головоломка, в которой вам предстоит менять местами кадры анимированного комикса, чтобы изменить порядок происходящих событий и добиться альтернативной концовки.",
+    "appVersion" : "1.31",
+    "appUpdateTime" : "2022-11-04T10:48:00+0300",
+    "appName" : "Framed",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/32.png",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/fu3ds3wgj1ab4y5\/Marshals%203%203.1.3.ipa?dl=1",
+    "appVersion" : "3.1.3",
+    "appDescription" : "Взломаны покупки! «Покупаем» и отказываемся от ввода Apple ID!\nПрисоединяйтесь к шумному отряду космических маршалов в их последнем злоключении в космосе.",
+    "appUpdateTime" : "2022-11-04T09:53:00+0300",
+    "appName" : "Space Marshals 3 | Hack",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appUpdateTime" : "2022-11-04T09:23:00+0300",
+    "appDescription" : "Мощный графический редактор, в котором вы найдете все необходимое для создания, изменения и улучшения ваших изображений.",
+    "appVersion" : "2.8.1",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/33.jpeg",
+    "appName" : "Pixelmator",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/5pwxrk22etkeerc\/Pixelmator%202.8.1.ipa?dl=1",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appVersion" : "3.0.229",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/38i116fzt5l0bx5\/DOOM%20II%203.0.229.ipa?dl=1",
+    "appUpdateTime" : "2022-11-04T08:59:00+0300",
+    "appDescription" : "Игра представляет собой продолжение всеми любимой игры где вы встретитесь с ужасными демонами и печально известными боссами.",
+    "appName" : "Doom 2",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/34.jpeg",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appDescription" : "Испытайте взрывной прилив адреналина в крови от сумасшедшей перестрелки и заново окунитесь в мир DOOM. Нестареющая игровая классика, играть в которую теперь можно прямо со своего смартфона.",
+    "appName" : "Doom",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/35.jpeg",
+    "appVersion" : "3.0.228",
+    "appUpdateTime" : "2022-11-04T08:53:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/e664zzqxxmqoh74\/DOOM%203.0.228.ipa?dl=1"
+            
+            "appCateIndex": 1
+  },
+  {
+    "appName" : "Horizon Chase 2 | Fix",
+    "appDescription" : "Запускать строго без интернета, иначе получите бесконечную загрузку! В главном меню интернет можно включить!\nДобро пожаловать в возрожденную эру аркадных гонок, наполненную современными технологиями. Классический геймплей 90 вернет вашим пальцам то самое ощущение контроля над машиной.",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/36.jpeg",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/r4ab9kbqqcrtldo\/Horizon%20Chase%202%201.0.4.ipa?dl=1",
+    "appVersion" : "1.0.4",
+    "appUpdateTime" : "2022-11-03T23:08:00+0300",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/p3x4cy0mj9hl14x\/Space%20Marshals%202%20v1.4.7.ipa?dl=1",
+    "appVersion" : "1.4.7",
+    "appName" : "Space Marshals 2",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/37.jpeg",
+    "appDescription" : "В этом тактическом шутере с видом сверху вы берете на себя роль специалиста Бертона, который охотится на опасных преступников по всей галактике.",
+    "appUpdateTime" : "2022-11-03T18:10:00+0300",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appName" : "Stitch.",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/tsz8qj5c3bv7jn5\/stitch._0.6_1667487647.ipa?dl=1",
+    "appVersion" : "0.6",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/38.jpeg",
+    "appUpdateTime" : "2022-11-03T18:03:00+0300",
+    "appDescription" : "❗️Работоспособность Jailbreak\/TrollStore❗️\nПопробуйте вышивание, если хотите на некоторое время отвлечься от собственных дел и отдохнуть от появившихся проблем в реальной жизни.",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appUpdateTime" : "2022-11-02T23:00:00+0300",
+    "appDescription" : "Исправлен вылет на сертификатах!\nС приложением Opener вы можете открывать ссылки напрямую в их «родных» iOS-приложениях вместо браузера!",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/j7w6m53fqqefa29\/Opener%201.11.5.ipa?dl=1",
+    "appName" : "Opener | Fix",
+    "appVersion" : "1.11.3",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/39.jpeg",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appUpdateTime" : "2022-11-01T22:25:00+0300",
+    "appName" : "Videoleap | Hack | Fix",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/7tgnm3sqt62icf2\/Videoleap%201.23.ipa?dl=1",
+    "appVersion" : "1.23",
+    "appDescription" : "Исправлен вылет на сертификате и добавлен Pro функционал! Ничего покупать не нужно, окошко о покупке просто игнорим!\nVideoleap by Lightricks включает в себя неплохой набор инструментов для работы с видео",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/40.png",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appName" : "TikTok LRD",
+    "appVersion" : "26.6.1",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
+    "appUpdateTime" : "2022-11-01T18:30:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/o7gxr1larbj4zeg\/TikTok%20%2826.6.1%29_LRD%202.1.ipa?dl=1",
+    "appDescription" : "Модифицированное популярное приложение для создания небольших забавных видео с возможностью делиться своим творчеством с друзьями по всему миру.\nСборка предоставлена: tg@Helper_iOS",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/42.jpeg",
+    "appVersion" : "2.2",
+    "appUpdateTime" : "2022-11-01T13:03:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/9pwm1dm76c7mpvw\/SongPopParty.ipa?dl=1",
+    "appDescription" : "❗️Работает только на TrollStore\/Jailbreak❗️\nПродемонстрируй свои музыкальные познания в этой динамичной и напористой музыкальной игре-викторине.",
+    "appName" : "SongPop Party",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/whcad89alo6z7nm\/Space%20Marshals%201.4.2.ipa?dl=1",
+    "appDescription" : "Приключенческая игра в жанре научной фантастики и вестерна, события которой разворачиваются в открытом космосе!",
+    "appName" : "Space Marshals",
+    "appVersion" : "1.4.2",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/43.png",
+    "appUpdateTime" : "2022-10-31T22:03:00+0300",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appName" : "VivaCut | Hack",
+    "appVersion" : "2.17.2",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/1qfc6dvzgj078e8\/VivaCut%202.17.2.ipa?dl=1",
+    "appUpdateTime" : "2022-10-31T18:03:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/44.jpeg",
+    "appDescription" : "Активирована подписка!\nПрофессиональный редактор для видео, удобный в применении даже для новичков.",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appName" : "YouCut | Hack",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/45.png",
+    "appVersion" : "1.2.1",
+    "appDescription" : "Активирована подписка!\nПриложение для редактирования видеофайлов, оптимизировано для подготовки видео для размещения на популярных хостингах.",
+    "appUpdateTime" : "2022-10-31T14:03:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/b7tjc7u2huefrv1\/YouCut%201.2.1.ipa?dl=1",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appDescription" : "Легко узнать актуальный баланс и остатки пакетов, поменять тариф и управлять услугами, заказать детализацию и контролировать расходы.",
+    "appUpdateTime" : "2022-10-30T22:03:00+0300",
+    "appName" : "СберМобайл",
+    "appVersion" : "1.2.7",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/46.jpeg",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/p283ywj31zecs4r\/%D0%A1%D0%B1%D0%B5%D1%80%D0%9C%D0%BE%D0%B1%D0%B0%D0%B9%D0%BB%201.2.7.ipa?dl=1",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appName" : "Dog Pal | Hack",
+    "appVersion" : "3.7.6",
+    "appDescription" : "Активирована подписка!\nПриложение для идентификации породы собаки!",
+    "appUpdateTime" : "2022-10-30T18:03:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/47.jpeg",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/lqzsyji4zczjrnl\/Dog%20Pal%203.7.6.ipa?dl=1",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appUpdateTime" : "2022-10-30T11:03:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/48.jpeg",
+    "appVersion" : "1.14",
+    "appName" : "Getting Over It",
+    "appDescription" : "Поднимитесь на огромную гору с ничем, кроме молотка и горшка.",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/p4by83cwkjik13v\/getting%20over%20it%201.05.ipa?dl=1",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appUpdateTime" : "2022-10-29T23:03:00+0300",
+    "appDescription" : "Исправлен вылет на сертификатах, так же разблокирован Pro режим!\nЗагрузите автономно работающие топографические карты и используйте их в любой глуши!",
+    "appVersion" : "7.1",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/49.jpeg",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/5txz3fz3f3egr5r\/Topo%20Maps%2B%207.1.ipa?dl=1",
+    "appName" : "Topo Maps+ | Hack",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appName" : "LightX | Hack",
+    "appVersion" : "1.5.3",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/6bcdv9cwotyfs81\/LightX%201.5.3.ipa?dl=1",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/50.jpeg",
+    "appDescription" : "Активирована подписка! Исправлен вылет на сертификатах!\nМобильный редактор фото, в котором есть все.",
+    "appUpdateTime" : "2022-10-29T11:39:00+0300",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/er9jhlhpuua1mi0\/Picture%20Fish%202.6.6.ipa?dl=1",
+    "appUpdateTime" : "2022-10-28T15:03:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/51.jpeg",
+    "appDescription" : "Активирована подписка!\nЕщё один проект расширяющий список программ направленных на распознавание разного окружающего нас каждый день. В данном случае всё предназначено для идентификации рыб.",
+    "appName" : "Picture Fish | Hack",
+    "appVersion" : "2.6.6",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/52.jpeg",
+    "appName" : "Picture Bird | Hack",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/0pyj1w95lr4ke8x\/Picture%20Bird%202.11.2.ipa?dl=1",
+    "appDescription" : "Активирована подписка!\nИнструмент, что будет интересен любому пользователю наслаждающемуся пением птиц и желающему точно знать кто в данный момент выводит трель.",
+    "appUpdateTime" : "2022-10-28T10:15:00+0300",
+    "appVersion" : "2.11.2",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appVersion" : "3.2.0",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/759evzsr4c53wgk\/Subway%20Surf%203.2.0.ipa?dl=1",
+    "appName" : "Subway Surfers | Hack",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/53.jpeg",
+    "appUpdateTime" : "2022-10-28T01:02:00+0300",
+    "appDescription" : "Взломана валюта на максимум!\nУСКОРЯЙСЯ так быстро, как только сможешь!",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appName" : "Picture Insect | Hack",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/54.jpeg",
+    "appUpdateTime" : "2022-10-27T23:15:00+0300",
+    "appVersion" : "2.11.0",
+    "appDescription" : "Активирована подписка!\nСфотографируй интересующую букашку, чтобы получить исчерпывающие и крайне интересные данные о цели.",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/cnutq1pci6pf70i\/Picture%20Insect%202.11.0.ipa?dl=1",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/u34tzslhlzgib3z\/com.supercell.laser%2046.168.ipa?dl=1",
+    "appName" : "Brawl Stars",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/55.jpeg",
+    "appUpdateTime" : "2022-10-27T22:30:00+0300",
+    "appVersion" : "46.168",
+    "appDescription" : "Собирайте звезды для своей команды, устраняя противников."
+            
+            "appCateIndex": 1
+  },
+  {
+    "appName" : "Picture Mushroom | Hack",
+    "appUpdateTime" : "2022-10-27T22:30:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/81tgu0glsxv462w\/Picture%20Mushroom%202.9.5.ipa?dl=1",
+    "appVersion" : "2.9.5",
+    "appDescription" : "Активирована подписка!\nОбразовательно-вспомогательный проект, что пополнит коллекцию приложений обеспечивающих идентификацию того или иного. В данном случае это будут грибы.",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/56.jpeg",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/57.jpeg",
+    "appName" : "Sigma Theory",
+    "appDescription" : "❗️Работает только на TrollStore\/JailBreak❗️\nИгровой процесс полностью построен вокруг шпионажа и секретных действий в тылу врага.",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/3j9248op00ah1k5\/Sigma.ipa?dl=1",
+    "appUpdateTime" : "2022-10-27T18:30:00+0300",
+    "appVersion" : "1.0.3",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/kir6hxyvx8mw6um\/Rock%20Identifier%202.4.14.ipa?dl=1",
+    "appName" : "Rock Identifier | Hack",
+    "appVersion" : "2.4.14",
+    "appDescription" : "Активирована подписка!\nПриложение создано для помощи в сфере минералогии и геммологии.",
+    "appUpdateTime" : "2022-10-27T18:19:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/58.jpeg",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appUpdateTime" : "2022-10-27T09:19:00+0300",
+    "appName" : "Shovel Knight Dig",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/4905eru2chu3k84\/Shovel%20Knight%20Dig%20v1.1.0.ipa?dl=1",
+    "appDescription" : "Когда Бурильный рыцарь и его разбойники разгромили лагерь и похитили добычу Лопатного рыцаря, тот схватил верный лопатный клинок и устремился в погоню!",
+    "appVersion" : "1.1.0",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/59.jpeg",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appDescription" : "В меню «покупаем» полную версию и отказываемся от ввода Apple ID!\nЭкшен-платформер с головоломками и физикой, где вы играете в роли маленького робота.",
+    "appUpdateTime" : "2022-10-26T18:39:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/60.jpeg",
+    "appVersion" : "1.4",
+    "appName" : "Monobot | Hack",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/0evqj48anmtjqwc\/MONOBOT%201.4.ipa?dl=1",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appDescription" : "Два раза нажимаем на платный фильтр и отказываемся от ввода Apple ID!\nСупер-лаборатория фотоэффектов и фотоприколов для вашего iPhone и iPad!",
+    "appName" : "Photo Lab Pro | Hack",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/61.jpeg",
+    "appUpdateTime" : "2022-10-25T23:29:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/s33gckoyz2y5vr9\/Photo%20Lab%203.11.0.ipa?dl=1",
+    "appVersion" : "3.11.0",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/75q461vbxxuk7fu\/ContraCam%203.9.53.ipa?dl=1",
+    "appUpdateTime" : "2022-10-25T04:29:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/62.jpeg",
+    "appDescription" : "Активирована подписка!\nContraCam предупреждает о всех типах опасностей на дороге, помогая экономить деньги на штрафах.",
+    "appVersion" : "3.9.53",
+    "appName" : "ContraCam | Hack",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appDescription" : "Проведите кланы викингов по враждебным землям трещащего по швам мира. Принимайте непростые решения, мудро распределяйте ресурсы и храбро бейтесь, чтобы еще на денек задержаться на этом жестоком свете.",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/63.jpeg",
+    "appVersion" : "1.0.7",
+    "appUpdateTime" : "2022-10-25T04:10:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/cowlcg8w7um4rko\/Banner%20Saga%202%201.0.7.ipa?dl=1",
+    "appName" : "Banner Saga 2",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appDescription" : "Динамичная и сочная игра, в которой вам предстоит сражаться со спелыми фруктами!",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/64.jpeg",
+    "appName" : "Fruit Ninja Classic",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/jxdqusqlp0e1zfk\/Fruit%20ninja%202.4.6.ipa?dl=1",
+    "appVersion" : "2.4.6",
+    "appUpdateTime" : "2022-10-25T03:29:00+0300",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appDescription" : "Активирована подписка!\nОткройте изумительные возможности фоторедактора PhotoLeaf, оставив оригинальное изображение нетронутым.",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/65.jpeg",
+    "appUpdateTime" : "2022-10-24T10:29:00+0300",
+    "appName" : "PhotoLeaf | Hack",
+    "appVersion" : "1.1.0",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/lgpe9x4kvpffi00\/PhotoLeaf%201.1.0.ipa?dl=1",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appName" : "StoryZ | Hack",
+    "appVersion" : "1.4.1",
+    "appUpdateTime" : "2022-10-24T10:20:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/sv2y56sgfunzn9v\/StoryZ%201.4.1.ipa?dl=1",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/66.jpeg",
+    "appDescription" : "Активирована подписка!\nСоздавайте видео из неподвижных фото. Заставьте ваши фото двигаться и оживите их.",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appDescription" : "Шары вернулись и стали ещё лучше! Сыграйте в трёхмерную игру в жанре «оборона крепости», где вас ждут долгие часы стратегических боёв.",
+    "appVersion" : "33.1",
+    "appUpdateTime" : "2022-10-23T21:50:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/af2knnixgu94c64\/Bloons%20TD%206%2B%2033.1.ipa?dl=1",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/67.jpeg",
+    "appName" : "Bloons TD 6+ | Fix",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/88dbvpyu3edyzur\/unc0ver_Release_8.0.2.ipa?dl=1",
+    "appDescription" : "❗️JailBreak для iOS 11.0-14.8.\nA12-A13 iOS 14.6-14.8\n<A11 iOS <14.5",
+    "appVersion" : "8.0.2",
+    "appUpdateTime" : "2022-10-23T21:20:00+0300",
+    "appName" : "Unc0ver",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/68.jpeg",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appVersion" : "12.22",
+    "appUpdateTime" : "2022-10-22T21:10:00+0300",
+    "appDescription" : "❗️Работает только на JailBreak\/TrollStore❗️\nУдаленное приложение Альфабанка для вашего iOS устройства!",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/69.jpeg",
+    "appName" : "Деньги пришли",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/oudm3hglk7ylet0\/AConcierge%2012.22.ipa?dl=1",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appUpdateTime" : "2022-10-22T15:10:00+0300",
+    "appDescription" : "Активирована подписка!\nМногофункциональный и простой видеоредактор, который поможет вам превратить ваши видеоролики в произведения искусства.",
+    "appVersion" : "4.5.0",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/70.jpeg",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/de016tylq1out3d\/Motion%20Ninja%204.5.0.ipa?dl=1",
+    "appName" : "Motion Ninja | Hack",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/71.jpeg",
+    "appDescription" : "Игра для яблочных девайсов, которая напоминает знаменитую игру Five Nights at Freddy.",
+    "appName" : "One Night at Flumptys",
+    "appVersion" : "1.0.6",
+    "appUpdateTime" : "2022-10-21T13:10:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/joinux2exuq4bca\/ONAF1%201.0.6.ipa?dl=1",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appDescription" : "«Покупаем» подписку и отказываемся от ввода Apple ID!\nБыстрый, бесплатный, полноценный веб браузер с фокусом на приватности и безопасности.",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/72.jpeg",
+    "appName" : "Aloha Browser | Hack | Fix",
+    "appVersion" : "4.3.1",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/v7jjxbolkmk3aso\/Aloha%204.3.1.ipa?dl=1",
+    "appUpdateTime" : "2022-10-21T02:10:00+0300",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appDescription" : "Приложение для прослушивания и загрузки музыки из VK!",
+    "appUpdateTime" : "2022-10-20T23:15:00+0300",
+    "appName" : "Null Music",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/73.jpeg",
+    "appVersion" : "3.0(17)",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/u8k8jn1vu4ozbrv\/Null%2BMusic%2B3.0%2B17.ipa?dl=1",
+            
+            "appCateIndex": 2
+  },
+  {
+    "appName" : "KinoPub",
+    "appUpdateTime" : "2022-10-20T23:00:00+0300",
+    "appVersion" : "1b87",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/74.png",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/i69vswvg569uz3c\/cncrt_iOS_1b87-09.22.ipa?dl=1",
+    "appDescription" : "Сервис, где пользователи могут смотреть новые серии сериалов, фильмы и шоу по подписке!\n❗️В приложении недоступна загрузка в кэш!",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/75.jpeg",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/eo71530vic3v3iv\/Rewound.ipa?dl=1",
+    "appUpdateTime" : "2022-10-20T22:50:00+0300",
+    "appDescription" : "Эмулятор плеера iPod для прослушивания музыки на вашем iPhone с Apple Music и других сервисов.\n❗️Для работы требуются файлы, обратитесь в наш чат.",
+    "appName" : "Rewound",
+    "appVersion" : "2019.7",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/76.jpg",
+    "appName" : "Delta",
+    "appDescription" : "❗️Чтобы эмулятор увидел фаил игры, вам нужно через приложение «файлы» найти папку «Delta» и закинуть игру в корень, после чего в эмуляторе нажимаем кнопку «+» - iTunes.\nЭмуляторы консолей nintendo для вашего iOS устройства! Начиная от NES, заканчивая nintendo DS!",
+    "appUpdateTime" : "2022-10-19T16:08:00+0300",
+    "appVersion" : "1.3.2",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/93g62c7tb8zcq8g\/Delta_1_3_2.ipa?dl=1",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appDescription" : "«Покупаем» то, что нас интересует и отказываемся от ввода Apple ID!\nКошмар не закончился. Заново окунитесь в темноту на борту ESS Меридиан!",
+    "appUpdateTime" : "2022-10-19T15:20:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/ur96uuxdqeop7c5\/Dead%20Effect%202%201.1.1.ipa?dl=1",
+    "appName" : "Dead Effect 2 | Hack",
+    "appVersion" : "1.1.1",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/77.jpeg",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appDescription" : "Активирована подписка!\nПрограмма обработки голоса в режиме реального времени, сочетающая в себе автоматическую настройку и кодирование речи.",
+    "appUpdateTime" : "2022-10-19T14:20:00+0300",
+    "appName" : "Voloco | Hack",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/2q4y0vcac0pwzow\/Voloco%207.5.7.ipa?dl=1",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/78.jpeg",
+    "appVersion" : "7.5.7",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/79.jpeg",
+    "appName" : "Dead Effect | Hack",
+    "appDescription" : "«Покупаем» то, что нас интересует и отказываемся от ввода Apple ID!\nОтличный экшен в котором вам необходимо играть за элитного члена подразделения 13, который пробудился от длительного сна",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/nalhiv1vf0hxduh\/Dead%20Effect%201.0.ipa?dl=1",
+    "appVersion" : "1.0",
+    "appUpdateTime" : "2022-10-17T18:20:00+0300",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appName" : "KODI",
+    "appVersion" : "19.4",
+    "appUpdateTime" : "2022-10-17T18:20:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/80.png",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/e2zdsog4jozeiig\/Kodi_19.4_1666210573.ipa?dl=1",
+    "appDescription" : "Бесплатный кроссплатформенный медиаплеер.",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appName" : "Glitche | Hack",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/81.jpeg",
+    "appDescription" : "«Покупаем» подписку, далее перезаходим в приложение!\nОдин из самых оригинальных, влиятельных и вдохновляющих редакторов для iPhone, который используют знаменитости и бренды.",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/f7z5uta1fb0cc6h\/Glitche%202.31.ipa?dl=1",
+    "appVersion" : "2.31",
+    "appUpdateTime" : "2022-10-17T17:20:00+0300",
+            
+            "appCateIndex": 0
+
+  },
+  {
+    "appName" : "Netflix",
+    "appUpdateTime" : "2022-10-17T11:20:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/5imutwi2f4iereb\/Netflix%2015.2.1.ipa?dl=1",
+    "appVersion" : "15.2.1",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/82.jpeg",
+    "appDescription" : "Удаленное приложение Netflix из App Store! Работает только с VPNом!",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/83.png",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/348ri8ynwoz0b2a\/TwistedWave%20Audio%20Editor%201.57.ipa?dl=1",
+    "appVersion" : "1.57",
+    "appName" : "Twisted Wave",
+    "appUpdateTime" : "2022-10-16T22:30:00+0300",
+    "appDescription" : "Очень быстрый и простой в использовании аудиоредактор и рекордер.",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/m6cvtuesb4uu4iq\/Hello%20Guest%201.1.ipa?dl=1",
+    "appVersion" : "1.1",
+    "appUpdateTime" : "2022-10-16T21:00:00+0300",
+    "appName" : "Hello Neighbor 2 Pre Alpha",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/84.png",
+    "appDescription" : "Добро пожаловать в Hello Guest! Это игра в жанре триллер с элементами стелс-хоррора про самообучающийся ИИ. По ночам вы работаете в парке развлечений «Золотое яблоко», где во тьме скрывается таинственное существо.",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/85.png",
+    "appName" : "Neighbours back From Hell",
+    "appUpdateTime" : "2022-10-16T20:30:00+0300",
+    "appPackage" : "",
+    "appVersion" : "1.3.6",
+    "appDescription" : "Знаете ли вы, что «Schadenfreude» (злорадство) - это немецкое слово, обозначающее нахождение радости в чужом несчастье? Это также основная идея, на которой построены «Соседи из ада».",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appUpdateTime" : "2022-10-16T13:59:00+0300",
+    "appDescription" : "Взломана валюта! Полученная валюта не тратится! Для запуска отключаем интернет, в игре ожидаем, пока прогрузится синяя полоса и включаем интернет в самой игре!\nУникальное сочетание градостроительства и фермерского хозяйства!",
+    "appName" : "Township | Hack",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/ntz47yapelrc7yh\/Township%209.5.0.ipa?dl=1",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/86.jpeg",
+    "appVersion" : "9.5.0",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appName" : "Mini Metro | Fix",
+    "appUpdateTime" : "2022-10-16T12:59:00+0300",
+    "appVersion" : "2.51.0",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/87.jpeg",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/5fagezd8bp2eiw8\/MiniMetro%202.51.0.ipa?dl=1",
+    "appDescription" : "Игра о создании метро для растущего города. Рисуйте линии между станциями и запускайте поезда.",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/4zx9dfrpyvgt5wa\/Null%20Royale.ipa?dl=1",
+    "appVersion" : "3.2872.2",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/88.jpeg",
+    "appUpdateTime" : "2022-10-15T23:59:00+0300",
+    "appDescription" : "Версия основана на пиратских серверах с накрученной валютой!\nДобро пожаловать на арену! Создатели Clash of Clans выпустили новую многопользовательскую игру в реальном времени с королевскими особами, вашими любимыми персонажами Clash и многим другим. Удалена из Российского App Store!",
+    "appName" : "Nulls Royale",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appUpdateTime" : "2022-10-15T23:55:00+0300",
+    "appName" : "Clash Royale",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/88.jpeg",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/8ven96ox000bcpf\/Clash%20Royal%203.2872.3.ipa?dl=1",
+    "appDescription" : "Добро пожаловать на арену! Создатели Clash of Clans выпустили новую многопользовательскую игру в реальном времени с королевскими особами, вашими любимыми персонажами Clash и многим другим. Удалена из Российского App Store!",
+    "appVersion" : "3.2872.3",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appDescription" : "Версия с пиратским сервером со взломанной валютой!\nЭпическая военно-стратегическая игра. Постройте деревню, обучите войска и сражайтесь по сети с миллионами других игроков!",
+    "appName" : "Nulls Clash",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/89.jpeg",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/6a1trh5j159swnb\/Nulls%20Clash.ipa?dl=1",
+    "appVersion" : "14.635.4",
+    "appUpdateTime" : "2022-10-15T23:50:00+0300",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appUpdateTime" : "2022-10-15T23:20:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/90.jpeg",
+    "appDescription" : "Эпическая военно-стратегическая игра. Постройте деревню, обучите войска и сражайтесь по сети с миллионами других игроков!",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/aehlj33u87anm6p\/Clash%20of%20Clans%2015.0.1.ipa?dl=1",
+    "appVersion" : "15.0.1",
+    "appName" : "Clash of Clans",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appDescription" : "Разблокирована полная версия! Для ее активации покупаем ее при входе и наслаждаемся! Для установки DLC обратитесь в наш чат!\nCivilization VI предлагает новые способы взаимодействия с миром!",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/91.jpeg",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/o8wuo6rffqwajq9\/Civ%20VI%201.3.1.ipa?dl=1",
+    "appUpdateTime" : "2022-10-15T20:00:00+0300",
+    "appVersion" : "1.3.1",
+    "appName" : "Civilization VI | Hack",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appVersion" : "15.1.2",
+    "appUpdateTime" : "2022-10-15T18:17:00+0300",
+    "appName" : "Funimate | Hack",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/92.jpeg",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/up131gepowhldye\/Funimate%2015.1.2.ipa?dl=1",
+    "appDescription" : "Активирована подписка!\nОтличный видеоредактор с кучей спецэффектов, стикеров, музыкальных эффектов, анимации и прочих украшений.",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appDescription" : "Активирована подписка!\nМобильное программное обеспечение, которое фокусируется на спецэффектах для видео.",
+    "appVersion" : "1.3.9",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/fe733dey2q109xo\/AVU%201.3.9.ipa?dl=1",
+    "appUpdateTime" : "2022-10-15T18:10:00+0300",
+    "appName" : "AVU | Hack",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/93.jpeg",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appDescription" : "Взломана на донат! «Покупаем» то, что нас интересует и отказываемся от ввода Apple ID!\nУправляйте своей командой и постарайтесь привести их к успеху в веселой и захватывающей игре в футбол.",
+    "appUpdateTime" : "2022-10-15T00:55:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/94.png",
+    "appVersion" : "5.6.1",
+    "appName" : "World Soccer Champs | Hack",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/sdkcn8ji0c9efvs\/Soccer%20Champs_5.6.1_1665766548.ipa?dl=1",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/yltce2j6765r5yg\/Transistor%202.0.ipa?dl=1",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/95.png",
+    "appVersion" : "2.0",
+    "appName" : "Transistor",
+    "appDescription" : "​​ОТ СОЗДАТЕЛЕЙ BASTION: Откройте для себя уникальную научно-фантастическую игру в жанре Action RPG!",
+    "appUpdateTime" : "2022-10-15T00:50:00+0300",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/kdd0sbrnwvh0kxn\/Nulls%20Brawl%2045.198i1.ipa?dl=1",
+    "appDescription" : "Версия основанная на пиратских серверах с накрученной валютой!\nСобирайте звезды для своей команды, устраняя противников.",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/96.png",
+    "appUpdateTime" : "2022-10-15T00:35:00+0300",
+    "appVersion" : "45.198i1",
+    "appName" : "Nulls Brawl",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appVersion" : "3.3.0",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/97.png",
+    "appName" : "SpongeBob: Patty Pursuit | Fix",
+    "appDescription" : "​​В Бикини Боттом пришла беда! Злой «гений» Планктон в очередной раз задумал украсть секретную формулу Крабсбургера. В этот раз он использовал целую армию своих племянников, чтобы поймать всех друзей Губки Боба!",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/hbr6szqsw2os611\/PattyPursuit%203.3.0.ipa?dl=1",
+    "appUpdateTime" : "2022-10-15T00:01:00+0300",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/eyj0molue7hgdtx\/Jetpack%202%201.2.10.ipa?dl=1",
+    "appUpdateTime" : "2022-10-14T01:17:00+0300",
+    "appName" : "Jetpack Joyride 2 | Fix",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/98.jpeg",
+    "appVersion" : "1.2.10",
+    "appDescription" : "Известный бесконечный раннер Jetpack Joyride вернулся! Теперь с ПУШКАМИ присоединяйтесь к Barry Steakfries и откройте для себя новый навык стрельбы!.",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/99.jpeg",
+    "appName" : "Siberian Breath | Hack",
+    "appUpdateTime" : "2022-10-14T00:59:00+0300",
+    "appDescription" : "Взломана подписка! Для активации выбираем подписку на 3 месяца и «покупаем»!\nПриложение для медитации с пейзажами невероятной красоты из Сибири!",
+    "appVersion" : "2.15",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/wjod60oviu0ck1c\/Siberian%20Breath%202.15.ipa?dl=1",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/100.jpeg",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/3cqdg78rh1dsw0a\/OttPlayer%208.0.7.ipa?dl=1",
+    "appVersion" : "8.0.7",
+    "appName" : "OttPlayer",
+    "appUpdateTime" : "2022-10-14T00:40:00+0300",
+    "appDescription" : "Представляем Вам уникальный, универсальный плеер для просмотра OTT телевидения на всех популярных устройствах, поддерживающих IPTV. Теперь все Ваше IPTV в одном приложении.",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/101.png",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/fal2x3kgtypap7o\/Hello%20Neighbor_2.1.4_1665678589.ipa?dl=1",
+    "appName" : "Hello Neighbor | Hack",
+    "appDescription" : "«Покупаем» полную версию и отказываемся от ввода Apple ID!\nHello Neighbor - игра в жанре хоррор, в которой игроку нужно проникнуть в соседский дом и узнать, что скрывает его зловещий сосед.",
+    "appVersion" : "2.1.4",
+    "appUpdateTime" : "2022-10-14T00:05:00+0300",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appName" : "Spark | Fix",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/l6dcw81pa7zp2jq\/Spark%202.11.23.ipa?dl=1",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/102.jpeg",
+    "appVersion" : "2.11.23",
+    "appDescription" : "Исправлен вылет на сертификатах! Так же убрана назойливая табличка обновления! Последняя версия без подписки!\nБольше, чем просто почтовый клиент.",
+    "appUpdateTime" : "2022-10-13T10:50:00+0300",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appUpdateTime" : "2022-10-13T09:59:00+0300",
+    "appName" : "Scanner Pro",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/qwtxqri8a9aklci\/Scanner%208.11.1.ipa?dl=1",
+    "appDescription" : "Сканер документов с OCR.",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/103.jpeg",
+    "appVersion" : "8.11.1",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/sy3z2wue5gs14zi\/Spark%203.0.ipa?dl=1",
+    "appUpdateTime" : "2022-10-13T09:50:00+0300",
+    "appName" : "Spark",
+    "appVersion" : "3.0",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/103.jpeg",
+    "appDescription" : "Больше, чем просто почтовый клиент.",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/104.png",
+    "appVersion" : "3.6.99",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/syofy8vlkhar4xc\/Neuronation%203.6.79.ipa?dl=1",
+    "appDescription" : "​​​​Взломана на подписку! Для активации «покупаем» ее и отказываемся от ввода Apple ID!\nПрограмма, которая улучшит память, концентрацию и логическое мышление с помощью разных упражнений.",
+    "appUpdateTime" : "2022-10-13T00:25:00+0300",
+    "appName" : "Neuronation | Hack",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appUpdateTime" : "2022-10-13T00:20:00+0300",
+    "appDescription" : "​​Взломаны платные функции! Для их активации «покупаем» их и отказываемся от ввода Apple ID!\nПродвинутая Камера и Фото, а также Видеоредактор.",
+    "appVersion" : "13.6.6",
+    "appName" : "ProCam 8 | Hack",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/ywd0o180lvhnwlp\/ProCam%2013.6.6.ipa?dl=1",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/105.png",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appVersion" : "1.9",
+    "appDescription" : "«Покупаем» полную версию и отказываемся от ввода Apple ID!\n Hello Neighbor: Hide and Seek - захватывающий приквел к Hello Neighbor, раскрывающий трагическую историю семьи Соседа.",
+    "appUpdateTime" : "2022-10-12T23:55:00+0300",
+    "appName" : "Hello Neighbor H&S | Hack",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/106.png",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/uu90tvlqiiym7c0\/Hello%20Neighbor%20Hide%20and%20Seek_1.9_1665587879.ipa?dl=1",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appName" : "Flappy Bird",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/107.jpeg",
+    "appVersion" : "4.1",
+    "appUpdateTime" : "2022-10-12T16:45:00+0300",
+    "appDescription" : "Геймплей Flappy Bird незатейлив: нажатием на экран надо поднимать птицу в воздух, лавируя между зеленых труб.",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/sa7yx8nxszt1k2y\/Flappy%20Bird%204.1.ipa?dl=1",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appDescription" : "Взломана на донат! «Покупаем» то, что нас интересует и отказываемся от ввода Apple ID!\nВ этой игре вам предстоит передвигаться на больших скоростях по автострадах, для этого берите самый крутой и мощный байк.",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/y9r52c8jo53l0f8\/Traffic%20Rider%201.71.ipa?dl=1",
+    "appUpdateTime" : "2022-10-12T15:45:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/108.jpeg",
+    "appVersion" : "1.71",
+    "appName" : "Traffic Rider | Hack",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appUpdateTime" : "2022-10-12T15:25:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/fyvqp1tfwacxho9\/FL%20Studio%20Mobile.ipa?dl=1",
+    "appDescription" : "«Покупаем» то, что нас интересует и отказываемся от ввода Apple ID!\nПриложение для работы с аудио и музыкой.",
+    "appName" : "FL Studio Mobile | Hack",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/109.jpeg",
+    "appVersion" : "4.0.16",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/4zttvamt0g2cl4s\/Godus.ipa?dl=1",
+    "appVersion" : "1.35.5",
+    "appUpdateTime" : "2022-10-12T14:55:00+0300",
+    "appName" : "Godus | Hack",
+    "appDescription" : "Взломана на донат! «Покупаем» то, что нас интересует и отказываемся от ввода Apple ID!\nПравьте миром живых существ! Симулятор Бога.",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/110.jpeg",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appDescription" : "Взломана подписка!\nПоставь себе цели - подсчитай шаги и сожги калории.",
+    "appVersion" : "6.5.21",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/111.jpeg",
+    "appUpdateTime" : "2022-10-12T14:50:00+0300",
+    "appName" : "StepsApp | Hack",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/t6b8w2rtu1l7anf\/StepsApp%206.5.21.ipa?dl=1",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/q18gprasrxg2lky\/SoulKnight%204.3.6.ipa?dl=1",
+    "appDescription" : "Взлом на донат! При покупке отказываемся от ввода Apple ID!\nЭто эпоха меча и револьвера. Магический камень, который поддерживал в нашем мире равновесие, украден высокотехнологичной расой пришельцев. Судьба мира висит на волоске.",
+    "appUpdateTime" : "2022-10-12T13:50:00+0300",
+    "appVersion" : "4.3.6",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/112.jpeg",
+    "appName" : "SoulKnight | Hack",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/113.jpeg",
+    "appUpdateTime" : "2022-10-11T17:50:00+0300",
+    "appName" : "Groovepad | Hack",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/ixiwyz2qob4bf8p\/Groovepad%201.15.0.ipa?dl=1",
+    "appVersion" : "1.15.0",
+    "appDescription" : "Взлом на Pro! «Покупаем» подписку и отказываемся от ввода Apple ID!\nПриложение для тех, кто давно хотел стать настоящим диджеем.",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appVersion" : "2.34.0",
+    "appName" : "Premier | Fix",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/kl61xssj2o5e6hb\/PREMIER%202.34.0.ipa?dl=1",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/114.jpeg",
+    "appUpdateTime" : "2022-10-11T14:43:00+0300",
+    "appDescription" : "Исправлен вылет на сертификатах!\nСервис, где пользователи могут смотреть новые серии сериалов, фильмы и шоу.",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/l9esov1ajyhx5qr\/Okko%2010.16.0.ipa?dl=1",
+    "appUpdateTime" : "2022-10-11T14:30:00+0300",
+    "appVersion" : "10.16.0",
+    "appName" : "Okko | Fix",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/115.jpeg",
+    "appDescription" : "Исправлен вылет на сертификатах!\nОгромное количество фильмов, сериалов, мультфильмов бесплатно в онлайн-кинотеатре.",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/pzlzhg1h63wr5fi\/%D0%A1%D0%91%D0%9E%D0%9B%2014.3.0.ipa?dl=1",
+    "appVersion" : "14.3.0",
+    "appUpdateTime" : "2022-10-10T11:40:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/116.png",
+    "appName" : "СБОЛ(Сбербанк) | Fix",
+    "appDescription" : "Обновленное приложение Сбербанка, удаленное из App Store!",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appUpdateTime" : "2022-10-09T19:45:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/117.png",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/0904ocbzrwbcx1l\/Mondly_9.31.1_1665331625.ipa?dl=1",
+    "appVersion" : "9.31.1",
+    "appDescription" : "Взлом на подписку!\nС Mondly вы можете изучать различные языки!",
+    "appName" : "Mondly | Hack",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appDescription" : "Discord это простейший способ ежедневного общения для любых компаний.",
+    "appUpdateTime" : "2022-10-09T19:20:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/118.png",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/oetxzym0hppclg2\/Discord%20%28clone%29_145.0_1665332459.ipa?dl=1",
+    "appVersion" : "145.0",
+    "appName" : "Discord - дубликат",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appVersion" : "137.0",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/119.png",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/w0n60w283yi3ev0\/%D0%90%D0%B2%D0%B8%D1%82%D0%BE%20%28%D0%BA%D0%BB%D0%BE%D0%BD%29_137.0_1665325163.ipa?dl=1",
+    "appDescription" : "Авито это миллионы объявлений по всей России.",
+    "appUpdateTime" : "2022-10-09T17:59:00+0300",
+    "appName" : "Авито - дубликат",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appDescription" : "Активирована подписка!\nInCollage — фоторедактор для создания коллажа из фото.",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/120.png",
+    "appUpdateTime" : "2022-10-09T17:45:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/zhk4wvuqdet9qsa\/InCollage_1.9.5_1665319354.ipa?dl=1",
+    "appName" : "InCollage | Hack",
+    "appVersion" : "1.9.5",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/121.png",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/dyyikx6yf3tehvq\/TeamSpeak_3.5.7_1665322195.ipa?dl=1",
+    "appDescription" : "Усовершенствованное приложение для голосового чата и общения, которое позволяет группам людей общаться и обмениваться информацией друг с другом через интернет или через частные сети.",
+    "appUpdateTime" : "2022-10-09T17:40:00+0300",
+    "appName" : "TeamSpeak 3",
+    "appVersion" : "3.5.7",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appName" : "Infuse | Hack",
+    "appCateIndex" : 0,
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/figjuox094pig66\/Infuse_7.4.5_1665324090.ipa?dl=1",
+    "appUpdateTime" : "2022-10-09T17:20:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/122.jpeg",
+    "appVersion" : "7.4.5",
+    "appDescription" : "Активирован Pro функционал!\nВидеоплеер для iOS с поддержкой 14 форматов.",
+            
+            "appCateIndex": 0
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/re5rv6kit9s6tre\/Xenowerk%20Tactics%202.0.8.ipa?dl=1",
+    "appName" : "Xenowerk Tactics | Hack",
+    "appDescription" : "«Покупаем» полную версию и отказываемся от ввода Apple ID!\nПобывайте в роли командира отряда специального назначения!",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/124.jpeg",
+    "appVersion" : "2.0.8",
+    "appUpdateTime" : "2022-10-08T19:30:00+0300",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appVersion" : "1.96",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/125.jpeg",
+    "appUpdateTime" : "2022-10-08T15:15:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/yfvxqyh31jte6lj\/LEGO%20Star%20Wars%20Battles%201.96.ipa?dl=1",
+    "appDescription" : "Игровой процесс в LEGO: Star Wars Battles очень похож на тот, что в Clash Royale и других аналогичных играх. Ваша цель – уничтожить вражескую базу на противоположном краю экрана, быстрее чем истечёт выделенное время.",
+    "appName" : "LEGO Star Wars Battles",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appVersion" : "1.4.0",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/shy3mj0j6qb25lf\/Vector%20Full%201.4.0.ipa?dl=1",
+    "appUpdateTime" : "2022-10-07T23:00:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/126.png",
+    "appName" : "Vector Full | Hack",
+    "appDescription" : "Взломан донат. «Покупаем» интересующую нас валюту и отказываемся от ввода Apple ID!\nЛучшая игра про паркур! Почувствуй вкус свободы и беги! Не дай себя поймать!",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/m36xfgm2pcmltjq\/Tempest%201.680.ipa?dl=1",
+    "appVersion" : "1.680",
+    "appUpdateTime" : "2022-10-07T22:55:00+0300",
+    "appName" : "Tempest | Hack",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/127.png",
+    "appDescription" : "Взломана валюта и разблокированы корабли! Для активации взлома необходимы файлы, которые можно получить в нашем чате!\nВеселый Роджер развевается над твоим кораблем, капитан!",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/220c3j4c5pyhvbc\/Possessions%202.13.ipa?dl=1",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/128.png",
+    "appDescription" : "Минималистичная игра-головоломка, в которой вы будете смотреть на предметы под разным углом.",
+    "appName" : "Possessions | Fix",
+    "appVersion" : "2.13",
+    "appUpdateTime" : "2022-10-07T22:50:00+0300",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appVersion" : "1.1.2",
+    "appDescription" : "Нуар-головоломка, в которой вам предстоит менять местами кадры анимированного комикса, чтобы изменить исход событий.",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/129.png",
+    "appName" : "FRAMED 2",
+    "appUpdateTime" : "2022-10-07T22:45:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/qz4vba9hyyam93w\/FRAMED%202%201.1.2.ipa?dl=1",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/0mfr1tuwuq8dcf8\/Taiko%20Pop%20Tap%201.6.0.ipa?dl=1",
+    "appName" : "Taiko no TPTB | Fix",
+    "appUpdateTime" : "2022-10-07T22:40:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/130.jpeg",
+    "appVersion" : "1.6.0",
+    "appDescription" : "Просто бей по нотам в такт! Та самая японская игра с барабанами «Мастер Тайко».",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appDescription" : "Отличный симулятор для iOS, где вы будете строить разнообразные миры.",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/792jt4fk60o8li7\/Pocket%20Build%2B%203.95.ipa?dl=1",
+    "appVersion" : "3.95",
+    "appUpdateTime" : "2022-10-07T22:30:00+0300",
+    "appName" : "Pocket Build +",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/131.png",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appVersion" : "11.4",
+    "appDescription" : "В игре Bridge Constructor вам нужно доказать свое высокое мастерство в возведении мостов, строя их через глубокие лощины, каналы и реки на 40 уровнях.",
+    "appName" : "Bridge Construction | Fix",
+    "appUpdateTime" : "2022-10-07T21:45:00+0300",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/132.jpeg",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/en9grfl9n0rwoo6\/Bridge%20Constr%2B%2011.4.583.ipa?dl=1",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appUpdateTime" : "2022-10-07T21:35:00+0300",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/8ucdlo64r28e1nn\/FF1%201.0.3.ipa?dl=1",
+    "appDescription" : "Переработанное 2D-издание первой игры знаменитой серии FINAL FANTASY! Нестареющая история, дополненная чарующей графикой в стиле ретро.",
+    "appName" : "Final Fantasy - Remastered",
+    "appVersion" : "1.0.3",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/133.png",
+            
+            "appCateIndex": 1
+  },
+  {
+    "appDescription" : "Профессиональное приложение для фотографирования, позволяющее раскрыть всю мощь камеры смартфона.",
+    "appImage" : "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/134.png",
+    "appPackage" : "https:\/\/www.dropbox.com\/s\/qpj5647spbog9nh\/ProShot%208.2.5.ipa?dl=1",
+    "appName" : "ProShot",
+    "appVersion" : "3.15.0",
+    "appUpdateTime" : "2022-10-07T21:20:00+0300",
+            
+            "appCateIndex": 0
+    }
+  ]
+}
