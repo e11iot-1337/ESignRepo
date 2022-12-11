@@ -34,7 +34,33 @@
 		"version": "27.2.0+Dark",
 		"down": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok3.ipa",
       "category": "Тиктоки",
-		"description": "Приложение TikTok с интегрированной модификацией Dark",
+		"description": "Приложение TikTok с интегрированной модификацией Dark.",
+      "icon": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
+      "bundleID": "com.zhiliaoapp.musically",
+		"appstore": "com.zhiliaoapp.musically",
+		"contact": {
+			"web": "https://t.me/ttskarl",
+			"twitter": "https://t.me/ttskarl"
+}},
+{
+		"name": "TikTokDL",
+		"version": "27.2.0+DL1.9.6",
+		"down": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok4.ipa",
+      "category": "Тиктоки",
+		"description": "Модификация TikTok с огромным количеством функций и возможностей.",
+      "icon": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
+      "bundleID": "com.zhiliaoapp.musically",
+		"appstore": "com.zhiliaoapp.musically",
+		"contact": {
+			"web": "https://t.me/ttskarl",
+			"twitter": "https://t.me/ttskarl"
+}},
+{
+		"name": "TikTokTxC",
+		"version": "27.2.0+TxC3.4",
+		"down": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok5.ipa",
+      "category": "Тиктоки",
+		"description": "Приложение TikTok с интегрированной модификацией TxC.",
       "icon": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
       "bundleID": "com.zhiliaoapp.musically",
 		"appstore": "com.zhiliaoapp.musically",
