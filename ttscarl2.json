@@ -1,0 +1,62 @@
+{
+    "name": "t.me/ttskarl",
+    "identifier": " ",
+    "sourceURL": " ",
+	"message": "💻 Наш канал - t.me/ttskarl 💻\n\n📲 У кого iOS 16+ ОБЯЗАТЕЛЬНО переходим в настройки - настройки подписи - метод установки - сервер. Иначе приложения не будут устанавливаться‼️",
+    "apps": [
+        {
+            "name": "LazyLRD",
+            "version": "26.2.0+LRD2.4",
+            "downloadURL": "https://www.dropbox.com/s/116vlf10x24azs0/TikTok.ipa?dl=1",
+            "localizedDescription": "Скачивание, отключение ограничений (в том числе санкционных!), смена региона в настройках, настройки интерфейса, отключение рекламы, пропуск трансляций, расширенные комментарии и многое другое.",
+            "versionDate": "2022-12-13T23:02:00+0300",
+            "iconURL": "https://lazyshop.app/icons/cz3hd3t2s9.png",
+            "size": 175112192 ,
+			"type": "1",
+        },
+
+        {
+            "name": "TikTokLRD",
+            "version": "26.6.1+LRD2.1",
+            "downloadURL": "https://www.dropbox.com/s/1z3ye7qrh9le8o3/TikTok2.ipa?dl=1",
+            "localizedDescription": "Модифицированное популярное приложение для создания небольших забавных видео с возможностью делиться своим творчеством с друзьями по всему миру.",
+            "versionDate": "2022-12-13T23:03:00+0300",
+            "iconURL": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
+            "size": 139460608 ,
+			"type": "1",
+        },
+
+        {
+            "name": "TikTokDark",
+            "version": "27.2.0+Dark",
+            "downloadURL": "https://www.dropbox.com/s/ri3fc7mc14d2rj6/TikTok3.ipa?dl=1",
+            "localizedDescription": "Приложение TikTok с интегрированной модификацией Dark.",
+            "versionDate": "2022-12-13T23:04:00+0300",
+            "iconURL": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
+            "size": 143654912 ,
+			"type": "1",
+        },
+
+        {
+            "name": "TikTokDL",
+            "version": "27.2.0+DL1.9.6",
+            "downloadURL": "https://www.dropbox.com/s/h2fx97u1dulf4my/TikTok4.ipa?dl=1",
+            "localizedDescription": "Модификация TikTok с огромным количеством функций и возможностей.",
+            "versionDate": "2022-12-13T23:05:00+0300",
+            "iconURL": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
+            "size": 143654912 ,
+			"type": "1",
+        },
+
+        {
+            "name": "TikTokTxC",
+            "version": "27.2.0+TxC3.4",
+            "downloadURL": "https://www.dropbox.com/s/s7fsncodkde8mwc/TikTok5.ipa?dl=1",
+            "localizedDescription": "Приложение TikTok с интегрированной модификацией TxC.",
+            "versionDate": "2022-12-13T23:06:00+0300",
+            "iconURL": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
+            "size": 143654912 ,
+			"type": "1",
+        }
+    ]
+}
