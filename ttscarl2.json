@@ -5,13 +5,13 @@
 	"message": "💻 Наш канал - t.me/ttskarl 💻\n\n📲 У кого iOS 16+ ОБЯЗАТЕЛЬНО переходим в настройки - настройки подписи - метод установки - сервер. Иначе приложения не будут устанавливаться‼️",
     "apps": [
         {
-            "name": "TikTokLRD",
-            "version": "26.6.1 + LRD2.1",
-            "downloadURL": "https://www.dropbox.com/s/263agmlt3ps8thz/TikTok_26.6.1.ipa?dl=1",
-            "localizedDescription": "Приложение TikTok с встроенной модификацией LRD.",
-            "versionDate": "2022-12-13T23:03:00+0300",
+            "name": "TikTokDark",
+            "version": "27.2.0 + Dark",
+            "downloadURL": "https://www.dropbox.com/s/g427tgmbus7nqrn/TikTok_27.2.0_dark.ipa?dl=1",
+            "localizedDescription": "Приложение TikTok с встроенной модификацией Dark.",
+            "versionDate": "2022-12-17T00:52:00+0300",
             "iconURL": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
-            "size": 138412032 ,
+            "size": 143654912 ,
 			"type": "1",
         },
 
