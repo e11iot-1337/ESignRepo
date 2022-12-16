@@ -4,6 +4,19 @@
 		"repoIcon": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/CAA3A32D-3600-4D76-9186-D9F817E0454F.jpeg"
 	},
 	"Tweaked": [{
+		"name": "TikTokDark",
+		"version": "27.2.0 + Dark",
+		"down": "https://www.dropbox.com/s/g427tgmbus7nqrn/TikTok_27.2.0_dark.ipa?dl=1",
+      "category": "Тикток",
+		"description": "Приложение TikTok с встроенной модификацией Dark.",
+      "icon": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
+      "bundleID": "com.zhiliaoapp.musically",
+		"appstore": "com.zhiliaoapp.musically",
+		"contact": {
+			"web": "https://t.me/ttskarl",
+			"twitter": "https://t.me/ttskarl"
+}},
+{
 		"name": "Brawl Stars",
 		"version": "47.190",
 		"down": "https://www.dropbox.com/s/r1svrj69vj7t75l/Brawl%20Stars_47.190.ipa?dl=1",
@@ -175,19 +188,6 @@
       "icon": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/88.jpeg",
       "bundleID": "com.supercell.scroll",
 		"appstore": "com.supercell.scroll",
-		"contact": {
-			"web": "https://t.me/ttskarl",
-			"twitter": "https://t.me/ttskarl"
-}},
-{
-		"name": "TikTokDark",
-		"version": "27.2.0 + Dark",
-		"down": "https://www.dropbox.com/s/g427tgmbus7nqrn/TikTok_27.2.0_dark.ipa?dl=1",
-      "category": "Тикток",
-		"description": "Приложение TikTok с встроенной модификацией Dark.",
-      "icon": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
-      "bundleID": "com.zhiliaoapp.musically",
-		"appstore": "com.zhiliaoapp.musically",
 		"contact": {
 			"web": "https://t.me/ttskarl",
 			"twitter": "https://t.me/ttskarl"
