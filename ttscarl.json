@@ -4,10 +4,23 @@
 		"repoIcon": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/CAA3A32D-3600-4D76-9186-D9F817E0454F.jpeg"
 	},
 	"Tweaked": [{
+		"name": "TikTokLRD",
+		"version": "26.6.1 + LRD2.1",
+		"down": "https://www.dropbox.com/s/263agmlt3ps8thz/TikTok_26.6.1.ipa?dl=1",
+      "category": "Тиктоки",
+		"description": "Приложение TikTok с встроенной модификацией LRD.",
+      "icon": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
+      "bundleID": "com.zhiliaoapp.musically",
+		"appstore": "com.zhiliaoapp.musically",
+		"contact": {
+			"web": "https://t.me/ttskarl",
+			"twitter": "https://t.me/ttskarl"
+}},
+{
 		"name": "TikTokDark",
 		"version": "27.2.0 + Dark",
 		"down": "https://www.dropbox.com/s/g427tgmbus7nqrn/TikTok_27.2.0_dark.ipa?dl=1",
-      "category": "Тикток",
+      "category": "Тиктоки",
 		"description": "Приложение TikTok с встроенной модификацией Dark.",
       "icon": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
       "bundleID": "com.zhiliaoapp.musically",
