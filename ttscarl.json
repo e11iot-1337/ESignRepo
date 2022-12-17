@@ -96,8 +96,8 @@
 }},
 {
 		"name": "Null's Brawl",
-		"version": "46.168",
-		"down": "https://www.dropbox.com/s/c3ur1ux3jki3ypu/Null%27s%20Brawl_46.168.ipa?dl=1",
+		"version": "47.190i2",
+		"down": "https://www.dropbox.com/s/fx1jqmax56tz6zj/Null%27s%20Brawl_47.190i2.ipa?dl=1",
       "category": "Игры",
 		"description": "Версия Brawl Stars основанная на пиратских серверах с накрученной валютой!\n\nДинамичная многопользовательская игра для мобильных платформ с боями 3 на 3 и битвой на выживание!",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/59/c0/0e/59c00e3a-89d6-a1ab-05dc-e627148c2fd8/source/512x512bb.jpg",
@@ -144,7 +144,7 @@
 		"name": "CapCut | Hack",
 		"version": "7.1.2",
 		"down": "https://www.dropbox.com/s/l97pxljzdqwstm8/CapCut_7.1.2.ipa?dl=1",
-      "category": "Редакторы",
+      "category": "Приложения",
 		"description": "Приложение для редактирования видео, которое поможет вам создавать невероятные видеоролики.",
       "icon": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/capc.png",
       "bundleID": "com.lemon.lvoverseas",
@@ -157,7 +157,7 @@
 		"name": "PicsArt | Hack",
 		"version": "21.1.4",
 		"down": "https://www.dropbox.com/s/i78oclgbp3odpwj/PicsArt_21.1.4.ipa?dl=1",
-      "category": "Редакторы",
+      "category": "Приложения",
 		"description": "Прекрасный графический редактор фотографий с большими возможностями.",
       "icon": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/206.png",
       "bundleID": "com.picsart.studio",
@@ -170,7 +170,7 @@
 		"name": "VSCO | Hack",
 		"version": "299.0.0",
 		"down": "https://www.dropbox.com/s/etid5ufsmytd9vs/VSCO_299.0.0.ipa?dl=1",
-      "category": "Редакторы",
+      "category": "Приложения",
 		"description": "Продвинутый редактор фото и видео.",
       "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/2d/cc/d4/2dccd458-65ae-85d2-2634-e3d1f196291e/source/512x512bb.jpg",
       "bundleID": "co.visualsupply.cam",
@@ -201,6 +201,32 @@
       "icon": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/88.jpeg",
       "bundleID": "com.supercell.scroll",
 		"appstore": "com.supercell.scroll",
+		"contact": {
+			"web": "https://t.me/ttskarl",
+			"twitter": "https://t.me/ttskarl"
+}},
+{
+		"name": "OldRoll | Hack",
+		"version": "4.5.2",
+		"down": "https://www.dropbox.com/s/6lz2rftli7yicsv/OldRoll_4.5.2.ipa?dl=1",
+      "category": "Приложения",
+		"description": "Новая реалистичная аналоговая камера уже онлайн. Ретро-текстура возвращает вас в 80-е.",
+      "icon": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/318.jpeg",
+      "bundleID": "com.zijayrate.analogcam",
+		"appstore": "com.zijayrate.analogcam",
+		"contact": {
+			"web": "https://t.me/ttskarl",
+			"twitter": "https://t.me/ttskarl"
+}},
+{
+		"name": "Procreate Pocket",
+		"version": "4.0.8",
+		"down": "https://www.dropbox.com/s/nlfmq6hbwsj871r/Pocket_4.0.8.ipa?dl=1",
+      "category": "Приложения",
+		"description": "Популярное графическое приложение для iPhone, которое одинаково знают и любят как профессионалы, так и начинающие художники.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/64/9e/9f/649e9fe2-3401-b76b-66de-43740147bc53/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg",
+      "bundleID": "au.com.savageinteractive.procreate-pocket",
+		"appstore": "au.com.savageinteractive.procreate-pocket",
 		"contact": {
 			"web": "https://t.me/ttskarl",
 			"twitter": "https://t.me/ttskarl"

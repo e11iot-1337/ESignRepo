@@ -83,10 +83,10 @@
 
         {
             "name": "Null's Brawl",
-            "version": "46.168",
-            "downloadURL": "https://www.dropbox.com/s/c3ur1ux3jki3ypu/Null%27s%20Brawl_46.168.ipa?dl=1",
+            "version": "47.190i2",
+            "downloadURL": "https://www.dropbox.com/s/fx1jqmax56tz6zj/Null%27s%20Brawl_47.190i2.ipa?dl=1",
             "localizedDescription": "Версия Brawl Stars основанная на пиратских серверах с накрученной валютой!\n\nДинамичная многопользовательская игра для мобильных платформ с боями 3 на 3 и битвой на выживание!",
-            "versionDate": "2022-12-15T01:04:00+0300",
+            "versionDate": "2022-12-17T16:34:00+0300",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/59/c0/0e/59c00e3a-89d6-a1ab-05dc-e627148c2fd8/source/512x512bb.jpg",
             "size": 300941312 ,
 			"type": "2",
@@ -177,6 +177,28 @@
             "versionDate": "2022-12-15T14:31:00+0300",
             "iconURL": "https://lazyshop.app/icons/hjmrlycvlv.png",
             "size": 120586240 ,
+			"type": "1",
+        },
+
+        {
+            "name": "OldRoll | Hack",
+            "version": "4.5.2",
+            "downloadURL": "https://www.dropbox.com/s/6lz2rftli7yicsv/OldRoll_4.5.2.ipa?dl=1",
+            "localizedDescription": "Новая реалистичная аналоговая камера уже онлайн. Ретро-текстура возвращает вас в 80-е.",
+            "versionDate": "2022-12-17T16:21:00+0300",
+            "iconURL": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/318.jpeg",
+            "size": 136314880 ,
+			"type": "1",
+        },
+
+        {
+            "name": "Procreate Pocket",
+            "version": "4.0.8",
+            "downloadURL": "https://www.dropbox.com/s/nlfmq6hbwsj871r/Pocket_4.0.8.ipa?dl=1",
+            "localizedDescription": "Популярное графическое приложение для iPhone, которое одинаково знают и любят как профессионалы, так и начинающие художники.",
+            "versionDate": "2022-12-17T17:12:00+0300",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/64/9e/9f/649e9fe2-3401-b76b-66de-43740147bc53/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg",
+            "size": 297795584 ,
 			"type": "1",
         }
     ]
