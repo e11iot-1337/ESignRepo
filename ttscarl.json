@@ -43,19 +43,6 @@
 			"twitter": "https://t.me/ttskarl"
 }},
 {
-		"name": "Minecraft",
-		"version": "1.19.51",
-		"down": "https://github.com/nemesisf1/fgggfer/releases/latest/download/Minecraft_1.19.51.ipa",
-      "category": "Игры",
-		"description": "Исследуйте бесконечные миры и стройте что угодно: от простейших домов до грандиозных замков и дворцов.",
-      "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/53/79/03/537903c2-3968-ae56-2223-8919bc522e89/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-      "bundleID": "com.mojang.minecraftpe",
-		"appstore": "com.mojang.minecraftpe",
-		"contact": {
-			"web": "https://t.me/ttskarl",
-			"twitter": "https://t.me/ttskarl"
-}},
-{
 		"name": "LazyVK",
 		"version": "7.35 + Lazy2.4",
 		"down": "https://github.com/nemesisf1/fgggfer/releases/latest/download/VK_7.35.ipa",
