@@ -8,7 +8,7 @@
 		"version": "27.4.0 + LRD2.1",
 		"down": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok_27.4.0_LRD2.1_doc.ipa",
       "category": "Тиктоки",
-		"description": "Приложение TikTok с встроенной модификацией LRD.\n❗️Черновики сохраняются по пути:\nФайлы -> iPhone -> TikTok -> drafts",
+		"description": "Приложение TikTok с встроенной модификацией LRD.\n\n❗️Черновики сохраняются по пути:\nФайлы -> iPhone -> TikTok -> drafts",
       "icon": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
       "bundleID": "com.zhiliaoapp.musically",
 		"appstore": "com.zhiliaoapp.musically",
