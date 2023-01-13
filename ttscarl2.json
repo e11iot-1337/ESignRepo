@@ -27,6 +27,17 @@
         },
 
         {
+            "name": "Toca Life World: Build a Story | Hack",
+            "version": "1.56",
+            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/Toca.World_1.56_@ttskarl.ipa",
+            "localizedDescription": "Создавай миры и разыгрывай любые сюжеты в Toca Life World!",
+            "versionDate": "2023-01-13T14:02:00+0300",
+            "iconURL": "https://play-lh.googleusercontent.com/cMGOxosyYWcHEMnkHGwiyGcZZxsLdmR-KAnkT2rIg_Dp6n-qyVJ5-ErEGCyTqwplAsI=w480-h960",
+            "size": 491782144 ,
+			"type": "2",
+        },
+
+        {
             "name": "Brawl Stars",
             "version": "47.190",
             "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/Brawl.Stars_47.190.ipa",
@@ -200,17 +211,6 @@
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/64/9e/9f/649e9fe2-3401-b76b-66de-43740147bc53/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg",
             "size": 297795584 ,
 			"type": "1",
-        },
-
-        {
-            "name": "Toca Life World: Build a Story | Hack",
-            "version": "1.56",
-            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/Toca.World_1.56_@ttskarl.ipa",
-            "localizedDescription": "Создавай миры и разыгрывай любые сюжеты в Toca Life World!",
-            "versionDate": "2023-01-13T14:02:00+0300",
-            "iconURL": "https://play-lh.googleusercontent.com/cMGOxosyYWcHEMnkHGwiyGcZZxsLdmR-KAnkT2rIg_Dp6n-qyVJ5-ErEGCyTqwplAsI=w480-h960",
-            "size": 491782144 ,
-			"type": "2",
         }
     ]
 }
