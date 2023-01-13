@@ -6,10 +6,10 @@
     "apps": [
         {
             "name": "TikTokLRD",
-            "version": "27.6.0 + LRD2.1",
-            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok_27.6.0_LRD2.1_doc.ipa",
+            "version": "27.7.1 + LRD2.1",
+            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok_27.7.1_LRD2.1_doc_@ttskarl.ipa",
             "localizedDescription": "Приложение TikTok с встроенной модификацией LRD.\n\n❗️Черновики сохраняются по пути:\nФайлы -> iPhone -> TikTok -> drafts",
-            "versionDate": "2023-01-07T11:53:00+0300",
+            "versionDate": "2023-01-13T14:11:00+0300",
             "iconURL": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
             "size": 152043520 ,
 			"type": "1",
@@ -17,10 +17,10 @@
 
         {
             "name": "TikTokDark",
-            "version": "27.6.0 + Dark",
-            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok_27.6.0_Dark_doc.ipa",
+            "version": "27.7.1 + Dark",
+            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok_27.7.1_Dark_doc_@ttskarl.ipa",
             "localizedDescription": "Приложение TikTok с встроенной модификацией Dark.\n\n❗️Черновики сохраняются по пути:\nФайлы -> iPhone -> TikTok -> drafts",
-            "versionDate": "2023-01-07T11:54:00+0300",
+            "versionDate": "2023-01-13T14:11:00+0300",
             "iconURL": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
             "size": 147849216 ,
 			"type": "1",
@@ -200,6 +200,17 @@
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/64/9e/9f/649e9fe2-3401-b76b-66de-43740147bc53/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg",
             "size": 297795584 ,
 			"type": "1",
+        },
+
+        {
+            "name": "Toca Life World: Build a Story | Hack",
+            "version": "1.56",
+            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/Toca.World_1.56_@ttskarl.ipa",
+            "localizedDescription": "Создавай миры и разыгрывай любые сюжеты в Toca Life World!",
+            "versionDate": "2023-01-13T14:02:00+0300",
+            "iconURL": "https://play-lh.googleusercontent.com/cMGOxosyYWcHEMnkHGwiyGcZZxsLdmR-KAnkT2rIg_Dp6n-qyVJ5-ErEGCyTqwplAsI=w480-h960",
+            "size": 491782144 ,
+			"type": "2",
         }
     ]
 }
