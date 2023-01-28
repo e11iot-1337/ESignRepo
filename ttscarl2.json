@@ -126,6 +126,61 @@
         },
 
         {
+            "name": "Баланс(ВТБ)",
+            "version": "16.5.1",
+            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/Balans_16.5.1_@ttskarl.ipa",
+            "localizedDescription": "Удаленное приложение банка ВТБ.",
+            "versionDate": "2023-01-28T18:40:00+0300",
+            "iconURL": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/304.png",
+            "size": 239075328 ,
+			"type": "1",
+        },
+
+        {
+            "name": "Росбанк",
+            "version": "4.11.0",
+            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/ROSBANK_4.11.0_@ttskarl.ipa",
+            "localizedDescription": "Удаленное приложение банка Росбанк.",
+            "versionDate": "2023-01-28T18:41:00+0300",
+            "iconURL": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/19028783-4D1A-4D9C-BB35-40E8B485B62E.png",
+            "size": 117440512 ,
+			"type": "1",
+        },
+
+        {
+            "name": "ЮMoney",
+            "version": "11.12.0",
+            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/YuMoney_11.12.0_@ttskarl.ipa",
+            "localizedDescription": "Удаленное приложение ЮMoney.",
+            "versionDate": "2023-01-28T18:42:00+0300",
+            "iconURL": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/E66CD7E2-8BC0-466B-86E2-04FAD47FAFF7.png",
+            "size": 185597952 ,
+			"type": "1",
+        },
+
+        {
+            "name": "Open Digital Wallet(Открытие)",
+            "version": "4.0.8",
+            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/Open.Digital_4.08_@ttskarl.ipa",
+            "localizedDescription": "Удаленное приложение банка Открытие.",
+            "versionDate": "2023-01-28T18:43:00+0300",
+            "iconURL": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/301.png",
+            "size": 65011712 ,
+			"type": "1",
+        },
+
+        {
+            "name": "ПСБ",
+            "version": "3.55.0",
+            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/PS.Balans_3.55.0_@ttskarl.ipa",
+            "localizedDescription": "Удаленное приложение банка ПСБ.",
+            "versionDate": "2023-01-28T18:44:00+0300",
+            "iconURL": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/199.jpeg",
+            "size": 55574528 ,
+			"type": "1",
+        },
+
+        {
             "name": "FL Studio Mobile",
             "version": "4.2.5",
             "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/FL.Studio.Mobile_4.2.5_@ttskarl.ipa",
