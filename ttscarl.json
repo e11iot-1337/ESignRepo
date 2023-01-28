@@ -5,8 +5,8 @@
 	},
 	"Tweaked": [{
 		"name": "TikTokLRD",
-		"version": "27.7.1 + LRD2.1",
-		"down": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok_27.7.1_LRD2.1_doc_@ttskarl.ipa",
+		"version": "27.9.0 + LRD2.1",
+		"down": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok_27.9.0_LRD2.1_@ttskarl.ipa",
       "category": "Тиктоки",
 		"description": "Приложение TikTok с встроенной модификацией LRD.\n\n❗️Черновики сохраняются по пути:\nФайлы -> iPhone -> TikTok -> drafts",
       "icon": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
@@ -18,8 +18,8 @@
 }},
 {
 		"name": "TikTokDark",
-		"version": "27.7.1 + Dark",
-		"down": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok_27.7.1_Dark_doc_@ttskarl.ipa",
+		"version": "27.9.0 + Dark",
+		"down": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok_27.9.0_Dark_@ttskarl.ipa",
       "category": "Тиктоки",
 		"description": "Приложение TikTok с встроенной модификацией Dark.\n\n❗️Черновики сохраняются по пути:\nФайлы -> iPhone -> TikTok -> drafts",
       "icon": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",

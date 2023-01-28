@@ -6,23 +6,23 @@
     "apps": [
         {
             "name": "TikTokLRD",
-            "version": "27.7.1 + LRD2.1",
-            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok_27.7.1_LRD2.1_doc_@ttskarl.ipa",
+            "version": "27.9.0 + LRD2.1",
+            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok_27.9.0_LRD2.1_@ttskarl.ipa",
             "localizedDescription": "Приложение TikTok с встроенной модификацией LRD.\n\n❗️Черновики сохраняются по пути:\nФайлы -> iPhone -> TikTok -> drafts",
-            "versionDate": "2023-01-13T14:11:00+0300",
+            "versionDate": "2023-01-28T19:30:00+0300",
             "iconURL": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
-            "size": 152043520 ,
+            "size": 154140672 ,
 			"type": "1",
         },
 
         {
             "name": "TikTokDark",
-            "version": "27.7.1 + Dark",
-            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok_27.7.1_Dark_doc_@ttskarl.ipa",
+            "version": "27.9.0 + Dark",
+            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok_27.9.0_Dark_@ttskarl.ipa",
             "localizedDescription": "Приложение TikTok с встроенной модификацией Dark.\n\n❗️Черновики сохраняются по пути:\nФайлы -> iPhone -> TikTok -> drafts",
-            "versionDate": "2023-01-13T14:11:00+0300",
+            "versionDate": "2023-01-28T19:31:00+0300",
             "iconURL": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
-            "size": 147849216 ,
+            "size": 149946368 ,
 			"type": "1",
         },
 
