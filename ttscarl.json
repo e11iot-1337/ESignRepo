@@ -5,8 +5,8 @@
 	},
 	"Tweaked": [{
 		"name": "TikTokLRD",
-		"version": "27.9.0 + LRD2.1",
-		"down": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok_27.9.0_LRD2.1_@ttskarl.ipa",
+		"version": "28.1.0 + LRD2.1",
+		"down": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok_28.1.0_LRD2.1_@ttskarl.ipa",
       "category": "Тиктоки",
 		"description": "Приложение TikTok с встроенной модификацией LRD.\n\n❗️Черновики сохраняются по пути:\nФайлы -> iPhone -> TikTok -> drafts",
       "icon": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
@@ -18,8 +18,8 @@
 }},
 {
 		"name": "TikTokDark",
-		"version": "27.9.0 + Dark",
-		"down": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok_27.9.0_Dark_@ttskarl.ipa",
+		"version": "28.1.0 + Dark",
+		"down": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok_28.1.0_Dark_@ttskarl.ipa",
       "category": "Тиктоки",
 		"description": "Приложение TikTok с встроенной модификацией Dark.\n\n❗️Черновики сохраняются по пути:\nФайлы -> iPhone -> TikTok -> drafts",
       "icon": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
@@ -206,7 +206,7 @@
 			"twitter": "https://t.me/ttskarl"
 }},
 {
-		"name": "Баланс(ВТБ)",
+		"name": "Баланс (ВТБ)",
 		"version": "16.5.1",
 		"down": "https://github.com/nemesisf1/fgggfer/releases/latest/download/Balans_16.5.1_@ttskarl.ipa",
       "category": "Банки, платежные системы",
@@ -239,7 +239,7 @@
 			"twitter": "https://t.me/ttskarl"
 }},
 {
-		"name": "Open Digital Wallet(Открытие)",
+		"name": "Open Digital Wallet (Открытие)",
 		"version": "4.0.8",
 		"down": "https://github.com/nemesisf1/fgggfer/releases/latest/download/Open.Digital_4.08_@ttskarl.ipa",
       "category": "Банки, платежные системы",
@@ -261,7 +261,7 @@
 			"twitter": "https://t.me/ttskarl"
 }},
 {
-		"name": "СБОЛ(Сбербанк)",
+		"name": "СБОЛ (Сбербанк)",
 		"version": "14.3.0",
 		"down": "https://github.com/nemesisf1/fgggfer/releases/latest/download/SBOL_14.3.0_@ttskarl.ipa",
       "category": "Банки, платежные системы",
@@ -272,7 +272,7 @@
 			"twitter": "https://t.me/ttskarl"
 }},
 {
-		"name": "Melodious(ВК плеер)",
+		"name": "Melodious (ВК плеер)",
 		"version": "2023.3",
 		"down": "https://github.com/nemesisf1/fgggfer/releases/latest/download/Melodious_4.0_@ttskarl.ipa",
       "category": "Музыка",

@@ -6,10 +6,10 @@
     "apps": [
         {
             "name": "TikTokLRD",
-            "version": "27.9.0 + LRD2.1",
-            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok_27.9.0_LRD2.1_@ttskarl.ipa",
+            "version": "28.1.0 + LRD2.1",
+            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok_28.1.0_LRD2.1_@ttskarl.ipa",
             "localizedDescription": "Приложение TikTok с встроенной модификацией LRD.\n\n❗️Черновики сохраняются по пути:\nФайлы -> iPhone -> TikTok -> drafts",
-            "versionDate": "2023-01-28T19:30:00+0300",
+            "versionDate": "2023-02-10T10:43:00+0300",
             "iconURL": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
             "size": 154140672 ,
 			"type": "1",
@@ -17,10 +17,10 @@
 
         {
             "name": "TikTokDark",
-            "version": "27.9.0 + Dark",
-            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok_27.9.0_Dark_@ttskarl.ipa",
+            "version": "28.1.0 + Dark",
+            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/TikTok_28.1.0_Dark_@ttskarl.ipa",
             "localizedDescription": "Приложение TikTok с встроенной модификацией Dark.\n\n❗️Черновики сохраняются по пути:\nФайлы -> iPhone -> TikTok -> drafts",
-            "versionDate": "2023-01-28T19:31:00+0300",
+            "versionDate": "2023-02-10T10:44:00+0300",
             "iconURL": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/41.png",
             "size": 149946368 ,
 			"type": "1",
@@ -30,7 +30,7 @@
             "name": "Toca Life World: Build a Story | Hack",
             "version": "1.56",
             "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/Toca.World_1.56_@ttskarl.ipa",
-            "localizedDescription": "Создавай миры и разыгрывай любые сюжеты в Toca Life World!",
+            "localizedDescription": "❗️В моде отсутствует платная мебель!\nСоздавай миры и разыгрывай любые сюжеты в Toca Life World!",
             "versionDate": "2023-01-13T14:02:00+0300",
             "iconURL": "https://play-lh.googleusercontent.com/cMGOxosyYWcHEMnkHGwiyGcZZxsLdmR-KAnkT2rIg_Dp6n-qyVJ5-ErEGCyTqwplAsI=w480-h960",
             "size": 491782144 ,
@@ -115,7 +115,7 @@
         },
 
         {
-            "name": "СБОЛ",
+            "name": "СБОЛ (Сбербанк)",
             "version": "14.3.0",
             "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/SBOL_14.3.0_@ttskarl.ipa",
             "localizedDescription": "Обновленное приложение СберБанка, которое было добавлено под видом другого приложения. Удаленно с App Store.",
@@ -126,7 +126,7 @@
         },
 
         {
-            "name": "Баланс(ВТБ)",
+            "name": "Баланс (ВТБ)",
             "version": "16.5.1",
             "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/Balans_16.5.1_@ttskarl.ipa",
             "localizedDescription": "Удаленное приложение банка ВТБ.",
@@ -159,7 +159,7 @@
         },
 
         {
-            "name": "Open Digital Wallet(Открытие)",
+            "name": "Open Digital Wallet (Открытие)",
             "version": "4.0.8",
             "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/Open.Digital_4.08_@ttskarl.ipa",
             "localizedDescription": "Удаленное приложение банка Открытие.",
