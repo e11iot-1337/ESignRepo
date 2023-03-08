@@ -67,6 +67,15 @@
             "iconURL": "https://ipsw.guru/i/photo_2023-03-05%2011.12.38_app.jpeg",
             "size": 28416409.6 ,
 			"type": "1",
-        }
+        },
+	    {
+            "name": "Terraria",
+            "version": "4.4.9",
+            "downloadURL": "https://cdn-147.bayfiles.com/x5DaTac0z1/93aa5e7a-1678286155/Terraria-v4-4-9-skergg.ipa",
+            "localizedDescription": "Террария. Все же знают что это?",
+            "versionDate": "2023-01-13T14:02:00+0300",
+            "iconURL": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/App_icon_1.3_Update.png/revision/latest?cb=20191202230012",
+            "size": 175636480 ,
+			"type": "2",
     ]
 }
