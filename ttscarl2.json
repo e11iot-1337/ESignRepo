@@ -401,7 +401,7 @@
 	    {
             "name": "Tinkoff",
             "version": "6.13.5",
-            "downloadURL": https://cdn-145.bayfiles.com/zeV9Sdc7za/6b0c3501-1678281816/Тинькофф+Банк_Tinkoff_6.13.5+%283%29.ipa,
+            "downloadURL": "https://cdn-145.bayfiles.com/zeV9Sdc7za/6b0c3501-1678281816/Тинькофф+Банк_Tinkoff_6.13.5+%283%29.ipa",
             "localizedDescription": "Первый банк без офисов в России",
             "versionDate": "2023-02-20T14:07:00+0300",
             "iconURL": "https://ipsw.guru/i/27647654_app.png",
@@ -411,7 +411,7 @@
 	    {
             "name": "QiWi",
             "version": "9.7.1",
-            "downloadURL": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1Inyal6AK666uDuSXJqP7Ifeoj1kBL4I2",
+            "downloadURL": "https://bayfiles.com/pcZeS0c5zd/QIWI_9_7_1_ipa",
             "localizedDescription": "QiWi. Электронные деньги.",
             "versionDate": "2023-02-20T14:07:00+0300",
             "iconURL": "https://ipsw.guru/i/photo_2023-03-05%2011.12.38_app.jpeg",
