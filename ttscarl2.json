@@ -397,6 +397,16 @@
             "iconURL": "https://logo-base.com/logo/faceapp_face_app_logo_icon_png.png",
             "size": 150994944 ,
 			"type": "2",
+        },
+	    {
+            "name": "Tinkoff",
+            "version": "6.13.5",
+            "downloadURL": "https://cloclo55.cloud.mail.ru/public/2p5NiCGQNfQrsGtXVhnR/g/platon_klimov_06@vk.com/giiy/8t1wkunua",
+            "localizedDescription": "Первый банк без офисов в России",
+            "versionDate": "2023-02-20T14:07:00+0300",
+            "iconURL": "https://ipsw.guru/i/27647654_app.png",
+            "size": 1350565888 ,
+			"type": "2",
         }
     ]
 }
