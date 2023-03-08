@@ -37,18 +37,7 @@
 			"type": "1",
         },
 
-        {
-            "name": "Geometry Dash",
-            "version": "2.11",
-            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/Geometry_2.11.ipa",
-            "localizedDescription": "Прыгайте под красивую музыку в одной из самых популярных игр своего жанра.",
-            "versionDate": "2022-12-15T01:02:00+0300",
-            "iconURL": "http://is5.mzstatic.com/image/thumb/Purple128/v4/2d/fe/20/2dfe2014-4cc1-aa24-58fd-df292fd2924c/source/350x350bb.jpg",
-            "size": 83886080 ,
-			"type": "2",
-        },
-
-
+        
 	    {
             "name": "FaceApp",
             "version": "1.0.11",
