@@ -77,6 +77,14 @@
             "iconURL": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/App_icon_1.3_Update.png/revision/latest?cb=20191202230012",
             "size": 175636480 ,
 			"type": "2",
+	    },
+	    "name": "InShot",
+	    "version": "1.66.0",
+	    "downloadURL": "https://cdn-149.bayfiles.com/T9W7Tbcfz7/b4f9b6c4-1678287340/Inshot+%5Bv1.66.0%5D-skergg.ipa"
+	    "localizedDescription": "Типо Фотошоп"
+	    "versionDate": "2023-01-13T14:02:00+0300"
+	    "iconURL": "https://avatars.mds.yandex.net/get-entity_search/7761650/600143564/S122x122_2x"
+	    "size": 89024102.4
 	    }
     ]
 }
