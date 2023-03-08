@@ -81,38 +81,6 @@
 			"type": "2",
 		},
 
-        {
-            "name": "Null's Brawl",
-            "version": "47.190i2",
-            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/Null.s.Brawl_47.190i2.ipa",
-            "localizedDescription": "Версия Brawl Stars основанная на пиратских серверах с накрученной валютой!\n\nДинамичная многопользовательская игра для мобильных платформ с боями 3 на 3 и битвой на выживание!",
-            "versionDate": "2022-12-17T16:34:00+0300",
-            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/59/c0/0e/59c00e3a-89d6-a1ab-05dc-e627148c2fd8/source/512x512bb.jpg",
-            "size": 300941312 ,
-			"type": "2",
-        },
-
-        {
-            "name": "Null's Royale",
-            "version": "3.3074.6",
-            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/Null.s.Royale_3.3074.6_@ttskarl.ipa",
-            "localizedDescription": "Версия Clash Royale основанная на пиратских серверах с накрученной валютой!\n\nДобро пожаловать на арену! Составьте боевую колоду и сражайтесь в динамичных боях в реальном времени.",
-            "versionDate": "2023-02-20T14:18:00+0300",
-            "iconURL": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/88.jpeg",
-            "size": 165675008 ,
-			"type": "2",
-        },
-
-        {
-            "name": "Null's Clash",
-            "version": "15.83.19i1",
-            "downloadURL": "https://github.com/nemesisf1/fgggfer/releases/latest/download/Nulls.Clash_15.83.19i1_@ttskarl.ipa",
-            "localizedDescription": "Версия Clash of Clans основанная на пиратских серверах с накрученной валютой!\n\nПрисоединитесь к миллионам игроков по всему миру: стройте свою деревню, развивайте свой клан и соревнуйтесь в эпических войнах кланов!",
-            "versionDate": "2023-01-17T21:50:00+0300",
-            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/d1/44/b0/d144b0ed-0d7d-f216-20db-cfcfbf47cd72/source/512x512bb.jpg",
-            "size": 290455552 ,
-			"type": "2",
-        },
 
         {
             "name": "СБОЛ (Сбербанк)",
