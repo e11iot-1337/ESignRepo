@@ -387,6 +387,16 @@
             "iconURL": "https://raw.githubusercontent.com/nemesisf1/fgggfer/main/265.png",
             "size": 522190848 ,
 			"type": "2",
+                 },
+	    {
+            "name": "FaceApp",
+            "version": "1.0.11",
+            "downloadURL": "https://github.com/Nefrit9087/ESignRepo/raw/main/FaceApp-v1-0-11-skergg.ipa",
+            "localizedDescription": "Временно отсутствует",
+            "versionDate": "2023-02-20T14:07:00+0300",
+            "iconURL": "https://logo-base.com/logo/faceapp_face_app_logo_icon_png.png",
+            "size": 150994944 ,
+			"type": "2",
         }
     ]
 }
